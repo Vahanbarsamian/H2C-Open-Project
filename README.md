@@ -5,7 +5,7 @@
 > 
 > **Copyright © 2026 par Vahan Barsamian André**
 > 
-> L'architecture technique, le concept et les équations physiques du projet **H2C** ont fait l'objet d'un dépôt d'horodatage officiel auprès de l'**INPI** (Institut National de la Propriété Industrielle, France) sous le numéro de certificat **e-Soleau obtenu le 8 juin 2026**. 
+> L'architecture technique, le concept et les équations physiques du projet **H2C** ont fait l'objet d'un dépôt d'horodatage officiel auprès de l'**INPI** (Institut National de la Propriété Industrielle, France) sous le numéro DSO2026021084 de certificat **e-Soleau obtenu le 8 juin 2026**. 
 > 
 > Ce dépôt garantit de manière absolue la paternité de l'auteur et l'antériorité de l'invention, rendant caduque toute tentative ultérieure de privatisation par dépôt de brevet exclusif par des tiers ou des lobbys.
 > 
