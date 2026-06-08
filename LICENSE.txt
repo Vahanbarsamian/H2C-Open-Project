@@ -1,0 +1,38 @@
+CERN Open Hardware Licence v2 - Strongly Reciprocal
+
+Preamble
+The CERN Open Hardware Licence is a set of economic and legal terms for
+the licensing of Open Hardware projects. The Hardware Industry is
+different from the Software Industry, and this licence is designed to
+reflect those differences, ensuring that documentation for hardware 
+remains open and accessible to all.
+
+1. Definitions
+1.1 'Licence' means this licence.
+1.2 'Source' means the technical documentation for the Hardware, including
+without limitation design files, schematics, PCB layouts, mechanical
+drawings, source code, and any other files required to build, manufacture
+or understand the Hardware.
+1.3 'Hardware' means any physical object manufactured or assembled using the
+Source.
+1.4 'Licensee' (or 'You') means any person exercising rights under this 
+Licence.
+1.5 'Licensor' means any person granting rights under this Licence.
+
+2. Grant of Rights
+2.1 The Licensor hereby grants You a worldwide, royalty-free,
+non-exclusive, perpetual licence to use, copy, modify, distribute, 
+and manufacture the Hardware, subject to the conditions in Section 3.
+
+3. Conditions of Reciprocity
+3.1 If You distribute the Source, or manufacture and distribute Hardware 
+derived from the Source, You must do so under the terms of this Licence 
+(or a later version published by CERN).
+3.2 You must provide a conspicuous notice on all copies of the Source and 
+on the Hardware itself referencing this Licence and the copyright of the 
+original author.
+
+4. Disclaimer of Warranty
+THE HARDWARE AND SOURCE ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+EXPRESSED OR IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS 
+BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
