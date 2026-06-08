@@ -3,7 +3,7 @@
 
 > 📢 **PROJET COMMUN DE L'HUMANITÉ — DOCUMENTATION LIBRE**
 > 
-> **Copyright © 2026 par [Ton Prénom et Nom]**
+> **Copyright © 2026 par Vahan Barsamian André**
 > 
 > L'architecture technique, le concept et les équations physiques du projet **H2C** ont fait l'objet d'un dépôt d'horodatage officiel auprès de l'**INPI** (Institut National de la Propriété Industrielle, France) sous le numéro de certificat **e-Soleau obtenu le 8 juin 2026**. 
 > 
