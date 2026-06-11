@@ -75,10 +75,6 @@ Pour éviter le remélange et la destruction immédiate des molécules gazeuses 
 La version V3 constitue la rupture conceptuelle majeure du projet. Elle dépasse les limites de la cavitation hydrodynamique passive en faisant converger **7 mécanismes physiques simultanés** au sein du même volume de réaction, transformant la machine thermique dissipative en un **réacteur plasma-cavitation sélectif**.
 
 
-
-[Image of cold plasma reactor layout]
-
-
 ### A. Électrisation d'Écoulement et Effet Paschen Intra-Bulle
 Le frottement à Mach 4+ du brouillard diphasique sur les disques en C/SiC isolés électriquement et dotés d'un revêtement de surface **superhydrophobe** (création d'un plastron d'air) génère une accumulation de charges triboélectriques massives par cisaillement de la double couche électrique.
 * Les différences de potentiel locales générées (de l'ordre de plusieurs $\text{kV}$) induisent un champ électrique intense aux interfaces des bulles.
