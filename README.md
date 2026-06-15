@@ -128,6 +128,9 @@ Pmagnétiques │           │      (Dépression Centrale        │           
 ◄─── [ INJECTION ] ──┴──────────────────────────────────────────────┴─── [ EXTRACTION ] ──►
 Vapeur Sèche 150°C          [ ARBRE CENTRAL CREUX DE ROTATION ]         Hydrogène Pur (H₂)
                             (Collecteur & Résonance HF)
+
+
+
 <p align="center">
-  <img width="1168" height="784" alt="Architecture Réacteur H2C V8.3" src="https://github.com/user-attachments/assets/018edc5d-6278-42f0-ad0d-be535d49b2a0" />
+ <img width="1168" height="784" alt="Image" src="https://github.com/user-attachments/assets/01052a58-3790-4d4d-a007-6fd42fd231e0" />
 </p>
