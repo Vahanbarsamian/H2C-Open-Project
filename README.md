@@ -1,6 +1,3 @@
-Voici le fichier `README.md` complet, propre et prêt à être copié-collé d'un seul bloc. J'y ai intégré l'image à l'emplacement optimal (dans la section 7) ainsi que le troisième dépôt e-Soleau d'aujourd'hui, le **15 juin 2026**.
-
-```markdown
 # H2C-Open-Project
 
 # ⚖️ Statut Juridique, Antériorité et Licence
@@ -125,38 +122,12 @@ En mode stationnaire, un module multi-générateurs H2C est couplé à une insta
   <img width="1168" height="784" alt="2Qmmq" src="https://github.com/user-attachments/assets/018edc5d-6278-42f0-ad0d-be535d49b2a0" />
 </p>
 
-Le plan de masse fonctionnel ci-dessous fige la topologie de référence du réacteur pour les phases de CAO et d'ingénierie numérique :
+### Cartographie Matrice Fonctionnelle du Réacteur (Vue en Coupe)
 
-```text
-======================= CARTER EXTÉRIEUR ATEX (Titane) =======================
-│                                                                             │
-│      [ CHAMBRE PÉRIPHÉRIQUE DE DÉCOMPRESSION ET EXTRACTION OXYGÈNE (O₂)]   │
-│                                                                             │
-│        ┌──────────────────────────────────────────────────────────┐         │
-│        │                ROTOR DOUBLE INTER-DIGUES                 │         │
-│        │                                                          │         │
-└───────┼───────────┐                                      ┌───────────┼─────────┘
-        │           │      Zone de Cisaillement        │           │
-        │  DISQUE   │         Hypersonique             │  DISQUE   │
-        │  GAUCHE   │         (Mach 4 / 8)             │  DROIT    │
-        │  (C/SiC)  │                                  │  (C/SiC)  │
-        │           │   ◄─── [ SILLONS LIPSS ] ───►    │           │
-        │  40k rpm  │   ◄─── [ DIAMANT BDD + Au ] ──►  │  40k rpm  │
-        │    (▲)    │                                  │    (▼)    │
-[Paliers] ───► [|]  │            [ VORTEX ]            │    [|]  ◄─── [Paliers]
-Pmagnétiques │      │       (Dépression Centrale       │           │    Magnétiques
-        │           │          Barométrique)           │           │
-┌───────┼───────────┘                                      └───────────┼─────────┐
-│       │                                                          │         │
-│       │  [ PAROI MICRO-PERFORÉE ]      [ PAROI MICRO-PERFORÉE ]  │         │
-│       └─────┬──────────────────────────────────────────────┬─────┘         │
-│             │                                              │               │
-◄─── [ INJECTION ] ──┴──────────────────────────────────────────────┴─── [ EXTRACTION ] ──►
-Vapeur Sèche 150°C          [ ARBRE CENTRAL CREUX DE ROTATION ]         Hydrogène Pur (H₂)
-                            (Collecteur & Résonance HF)
-
-```
-
-```
-
-```
+| Zone Physique | Composants & Matériaux | Dynamique & Régime Opératoire | Actions Électrochimiques | Extraction Fluides |
+| :--- | :--- | :--- | :--- | :--- |
+| **Carter Extérieur (Enceinte ATEX)** | Titane Massif | Passivation continue sous balayage d'Azote ($\text{N}_2$) | Isolation thermique et barrière anti-déflagrante | Collecte de l'Oxygène ($\text{O}_2$) périphérique |
+| **Rotor Étalon (Face Interne)** | Composite Carbone / Carbure de Silicium ($\text{C/SiC}$) | Double disque $\varnothing\ 150\text{ mm}$ en contre-rotation à **$40\,000\text{ tr/min}$** | Cisaillement cinétique d'interface extralocal (**Mach 4 à Mach 8**) | Entrée de la vapeur sèche surchauffée à $\ge 150^\circ\text{C}$ |
+| **Entrefer Étroit ($\delta = 50\ \mu\text{m}$)** | Micro-sillons géométriques laser (LIPSS) | Transition flash en régime de **Super-Cavitation** (Zéro friction fluide) | Phénomène de collapse sonoluminescent ($\sim 5000\text{ K}$, $\sim 1000\text{ bars}$) | Établissement d'un gradient de dépression barométrique radial |
+| **Revêtement Actif (Matrice Rotor)** | Solution solide Diamant BDD interdigité avec Nano-clusters d'Or ($\text{Au}$) | Résistance absolue aux forces de déchirement centrifuges | Éjection de *hot electrons* par Résonance Plasmonique (SPR) | Dissociation moléculaire directe en flux tendu |
+| **Axe Central (Collecteur)** | Tube en Titane à parois micro-perforées | Résonance acoustique haute fréquence calibrée | Barrière sélective anti-recombinaison radicalaire | Extraction de l'Hydrogène Pur ($\text{H}_2$) par l'arbre creux |
