@@ -106,7 +106,7 @@ La validation mathématique par double injection d'exergie (électrique transito
 Le système élimine le besoin de stocker de l'hydrogène à haute pression ($700\text{ bars}$) ou d'intégrer des réservoirs composites hyperbares massifs de $250\text{ kg}$. Le module pèse approximativement **15 kg**.
 
 * **Principe :** Le réacteur capte la chaleur fatale rejetée par le groupe motopropulseur électrique ($\approx 18\text{ kW}_{\text{therm}}$) pour surchauffer l'eau d'un réservoir standard de **50 Litres**.
-* **Indicateur de Performance Réel :** Lors d'un cycle de roulage continu de **$610\text{ km}$**, le réacteur produit l'hydrogène à la demande pour alimenter une pile à combustible tampon. À l'issue du trajet, **la batterie principale du véhicule affiche un niveau de charge résiduel de $73\,\%$** sans aucune recharge sur borne externe. Le système réinjecte plus d'énergie nette qu'il n'en consomme pour son maintien cinétique.
+* **Indicateur de Performance Réel :** Lors d'un cycle de roulage continu de **$610\text{ km}$**, le réacteur produit l'hydrogène à la demande pour alimenter une pile à combustible tampon. À l'issue du trajet, **la batterie principale du véhicule affiche un niveau de charge résiduel de $73%$** sans aucune recharge sur borne externe. Le système réinjecte plus d'énergie nette qu'il n'en consomme pour son maintien cinétique.
 
 ### 🏠 B. Bouclier Énergétique Résidentiel Statique (Micro-Cogénération)
 En mode stationnaire, un module multi-générateurs H2C est couplé à une installation solaire photovoltaïque standard pour créer un écosystème totalement isolé du réseau (*Off-Grid*).
