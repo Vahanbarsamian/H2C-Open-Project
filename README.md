@@ -128,3 +128,4 @@ Pmagnétiques │           │      (Dépression Centrale        │           
 ◄─── [ INJECTION ] ──┴──────────────────────────────────────────────┴─── [ EXTRACTION ] ──►
 Vapeur Sèche 150°C          [ ARBRE CENTRAL CREUX DE ROTATION ]         Hydrogène Pur (H₂)
                             (Collecteur & Résonance HF)
+<img width="1168" height="784" alt="2Qmmq" src="https://github.com/user-attachments/assets/018edc5d-6278-42f0-ad0d-be535d49b2a0" />
