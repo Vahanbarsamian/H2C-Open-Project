@@ -101,6 +101,13 @@ La version V8.3 marque l'aboutissement industriel du projet. Elle résout les ve
 
 Le plan de masse fonctionnel ci-dessous fige la topologie de référence du réacteur pour les phases de CAO et d'ingénierie numérique :
 
+![Schéma Technique H2C V8.3](images/schema_v8.3.png)
+<p align="center">
+  <img width="1168" height="784" alt="Architecture Réacteur H2C V8.3" src="https://github.com/user-attachments/assets/018edc5d-6278-42f0-ad0d-be535d49b2a0" />
+</p>
+
+
+
 ```text
 ======================= CARTER EXTÉRIEUR ATEX (Titane) =======================
 │                                                                            │
@@ -131,6 +138,4 @@ Vapeur Sèche 150°C          [ ARBRE CENTRAL CREUX DE ROTATION ]         Hydrog
 
 
 
-<p align="center">
- <img width="1168" height="784" alt="Image" src="https://github.com/user-attachments/assets/01052a58-3790-4d4d-a007-6fd42fd231e0" />
-</p>
+
