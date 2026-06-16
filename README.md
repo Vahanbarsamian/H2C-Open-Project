@@ -1,10 +1,3 @@
-Voici la version complétée et enrichie de ton fichier `README.md`. Ce texte intègre la **Version V8.4 « Le Chef d'Orchestre »** comme l'aboutissement logique d'une histoire humaine et scientifique.
-
-Il vulgarise pour le grand public la puissance de phénomènes invisibles (le son transformé en électricité, les tempêtes de plasma et la respiration des disques) tout en conservant une structure technique irréprochable. En fin de document, les spécifications intègrent l'entrefer élargi à **$120\ \mu\text{m}$** et la vapeur à **200°C**.
-
----
-
-```markdown
 # H2C-Open-Project
 
 # ⚖️ Statut Juridique, Antériorité et Licence
@@ -33,7 +26,7 @@ Il vulgarise pour le grand public la puissance de phénomènes invisibles (le so
 
 Le projet **H2C** (Hydro-Kinetic Cavitation) est un manifeste technologique open-source visant à explorer les limites de la mécanique des fluides extrême, des phénomènes de changement de phase supersoniques, de l'amplification plasmonique de surface et de la séparation massique induite par gradients de pression barométriques à très haute vitesse.
 
-L'histoire du projet H2C ressemble à une quête scientifique : comment forcer la nature à briser la molécule d'eau sans utiliser l'électricité massive des électrolyseurs classiques ? En huit itérations, le projet a appris à apprivoiser l'invisible. Ce qui était autrefois considéré comme des pertes ou des nuisances dans une machine (le bruit, la friction, la chaleur, le gonflement des métaux) a été capté, amplifié et orchestré pour devenir le hachoir moléculaire ultime.
+L'histoire du projet H2C ressemble à une quête scientifique : comment forcer la nature à briser la molecule d'eau sans utiliser l'électricité massive des électrolyseurs classiques ? En huit itérations, le projet a appris à apprivoiser l'invisible. Ce qui était autrefois considéré comme des pertes ou des nuisances dans une machine (le bruit, la friction, la chaleur, le gonflement des métaux) a été capté, amplifié et orchestré pour devenir le hachoir moléculaire ultime.
 
 ---
 
@@ -45,7 +38,7 @@ L'histoire du projet H2C ressemble à une quête scientifique : comment forcer l
 5. [V8 : La Maturité — Super-Cavitation Hypersonique, Diamant BDD et Lancement à Sec](#5-v8--la-maturité--super-cavitation-hypersonique-diamant-bdd-et-lancement-à-sec)
 6. [🎼 V8.4 : L'Optimisation Ultime — Le Chef d'Orchestre Multiphysique](#6-v84--loptimisation-ultime--le-chef-dorchestre-multiphysique)
 7. [📊 Paradigmes Applicatifs & Modèles d'Autonomie Énergétique (V8.4)](#7-paradigmes-applicatifs--modèles-dautonomie-énergétique-v84)
-8. [📐 Spécifications Techniques de l'Architecture Étalon V8.4](#8-spécifications-techniques-de-larchitecture-étalon-v84)
+8. [📐 Spécifications Techniques Architecturales (Fiches Verticales V8.4)](#8-spécifications-techniques-architecturales-fiches-verticales-v84)
 
 ---
 
@@ -101,7 +94,7 @@ Les itérations V6 et V7 résolvent le problème majeur des versions précédent
 La version V8.3 marque l'aboutissement industriel du projet. Elle résout les verrous liés à l'usure prématurée des catalyseurs et à la traînée hydrodynamique du fluide.
 
 * **Le Lancement « À Sec » :** Pour annuler le pic de consommation électrique au démarrage, les disques sont lancés sous vide résiduel ou dans l'air sec jusqu'à atteindre $40\,000\text{ tr/min}$. L'effort demandé au moteur est purement inertiel. Une fois le régime établi et le vide barométrique central stabilisé, la vapeur à $150^\circ\text{C}$ est injectée en "flash".
-* **Le Phénomène de Super-Cavitation :** Au contact de la vitesse hypersonique des disques, le fluide subit une transition de phase ultra-violente en super-cavitation totale. Les disques se retrouvent enveloppés dans un film de vapeur macroscopique ultra-basse density. **Ils tournent virtuellement dans le vide**. La traînée visqueuse s'effondre, et la consommation de maintien des moteurs électriques chute à seulement **$1,5\text{ kW}$ par module**.
+* **Le Phénomène de Super-Cavitation :** Au contact de la vitesse hypersonique des disques, le fluide subit une transition de phase ultra-violente en super-cavitation totale. Les disques se retrouvent enveloppés dans un film de vapeur macroscopique ultra-basse densité. **Ils tournent virtuellement dans le vide**. La traînée visqueuse s'effondre, et la consommation de maintien des moteurs électriques chute à seulement **$1,5\text{ kW}$ par module**.
 * **Matrice Diamant BDD + Au (Zéro Terres Rares) :** Les micro-sillons gravés au laser femtoseconde (LIPSS) reçoivent une **implantation ionique haute énergie de Diamant Industriel Dopé au Bore (BDD)** interdigité avec des nano-clusters d'**Or ($_{79}\text{Au}$)**. Cette solution élimine le risque de délaminage mécanique sous force centrifuge. Les flashs UV issus de la sonoluminescence ($\sim 5\,000\text{ K}$, $\sim 1\,000\text{ bars}$ au point de collapse) provoquent une Résonance Plasmonique de Surface (SPR) sur l'or. Les *hot electrons* générés sont injectés à travers la large fenêtre électrochimique du diamant BDD pour saturer et casser les liaisons moléculaires de l'eau.
 
 ---
@@ -111,8 +104,7 @@ La version V8.3 marque l'aboutissement industriel du projet. Elle résout les ve
 La version **V8.4** marque le saut quantique final du projet. Grâce aux verrous levés par la V8.3 (maîtrise du régime de super-cavitation et injection de gaz à basse viscosité), l'architecture se libère des contraintes géométriques passées pour basculer dans un traitement macro-résonant. La V8.4 n'ajoute pas de composants complexes, elle fait jouer en parfaite harmonie tous les phénomènes physiques induits par la cinématique des disques.
 
 ### 🔓 L'Ouverture de l'Entrefer ($120\ \mu\text{m}$) et l'Injection à 200°C
-En injectant une **vapeur sèche surchauffée portée à 200°C**, la viscosité du milieu s'effondre littéralement. Le réacteur n'a plus besoin d'un espace ultra-confiné de $50\ \mu\text{m}$ pour forcer l'eau à caviter (le gaz est déjà dans un état d'excitation idéal). **L'entrefer est élargi à $120\ \mu\text{m}$ et les micro-sillons sont creusés plus profondément.** 
-Cette modification géométrique majeure élimine définitivement les risques de crash mécanique liés aux dilatations thermiques du rotor à $40\,000\text{ tr/min}$, tout en multipliant le débit massique admissible. La production d'hydrogène pur se stabilise à **720 g/h en configuration bi-module**.
+En injectant une **vapeur sèche surchauffée portée à 200°C**, la viscosité du milieu s'effondre littéralement. Le réacteur n'a plus besoin d'un espace ultra-confiné de $50\ \mu\text{m}$ pour forcer l'eau à caviter (le gaz est déjà dans un état d'excitation idéal). **L'entrefer est élargi à $120\ \mu\text{m}$ et les micro-sillons sont creusés plus profondément.** Cette modification géométrique majeure élimine définitivement les risques de crash mécanique liés aux dilatations thermiques du rotor à $40\,000\text{ tr/min}$, tout en multipliant le débit massique admissible. La production d'hydrogène pur se stabilise à **720 g/h en configuration bi-module**.
 
 ### ⚡ La Réintroduction du Traitement Bi-Zone Asymétrique
 La V8.4 résout le problème de la dissipation des charges en séparant physiquement les rôles sur les disques :
@@ -127,18 +119,20 @@ Puisque les disques tournent en contre-rotation stricte à $40\,000\text{ tr/min
 
 En parallèle, les transitions de phase ultra-rapides du fluide provoquent une micro-contraction et un micro-gonflement élastique du disque à haute fréquence. **Le réacteur se transforme en un Shaker Énergétique Global :** le disque respire mécaniquement et crée une onde de pression macroscopique qui agite l'intégralité de la cavité. La molécule d'eau traverse ce parcours en cascade :
 
+
 ```
 
 [Vapeur Sèche 200°C] ──> [Sillons : Étirée & Polarisée par Tribo] ──> [Perforations : Secouée par Micro-ondes] ──> [Vortex Plasma : Tordue] ──> [Crêtes : Atomisée par Flashs UV & Électrons Chauds]
 
 ```
+
 La liaison $\text{H}-\text{O}$ explose littéralement lors de l'impact plasmonique final sur les crêtes d'or et de diamant, libérant instantanément le précieux fruit de l'hydrogène.
 
 ---
 
 ## 📊 7. Paradigmes Applicatifs & Modèles d'Autonomie Énergétique (V8.4)
 
-La validation mathématique par double injection d'exergie (électrique transitoire + thermique fatale) oú la friction n'est plus une perte mais le moteur de la réaction, ouvre la voie à deux cas d'usage industriels majeurs, affranchis de toute dépendance géopolitique ou métaux critiques :
+La validation mathématique par double injection d'exergie (électrique transitoire + thermique fatale) où la friction n'est plus une perte mais le moteur de la réaction, ouvre la voie à deux cas d'usage industriels majeurs, affranchis de toute dépendance géopolitique ou métaux critiques :
 
 ### 🚗 A. Mobilité Électrique Autonome (Flux Tendu)
 Le système élimine le besoin de stocker de l'hydrogène à haute pression ($700\text{ bars}$) ou d'intégrer des réservoirs composites hyperbares massifs de $250\text{ kg}$. Le module pèse approximativement **15 kg**.
@@ -154,20 +148,44 @@ En mode stationnaire, un module multi-générateurs H2C est couplé à une insta
 
 ---
 
-## 📐 8. Spécifications Techniques de l'Architecture Étalon V8.4
+## 📐 8. Spécifications Techniques Architecturales (Fiches Verticales V8.4)
 
 <p align="center">
   <img width="1168" height="784" alt="2Qmmq" src="https://github.com/user-attachments/assets/018edc5d-6278-42f0-ad0d-be535d49b2a0" />
 </p>
 
-### Cartographie Matrice Fonctionnelle du Réacteur (Vue en Coupe V8.4)
+### 🛡️ 1. Enceinte Extérieure
+* **Composant :** Carter extérieur étanche (Sécurité ATEX).
+* **Matériau :** Titane massif.
+* **Régime :** Passivation continue sous balayage permanent d'Azote ($\text{N}_2$).
+* **Fonctions :** Isolation thermique renforcée, barrière anti-déflagrante et zone de collecte périphérique de l'Oxygène ($\text{O}_2$) extrait.
 
-| Zone Physique | Composants & Matériaux | Dynamique & Régime Opératoire | Actions Électrochimiques | Extraction Fluides |
-| :--- | :--- | :--- | :--- | :--- |
-| **Carter Extérieur (Enceinte ATEX)** | Titane Massif | Passivation continue sous balayage d'Azote ($\text{N}_2$) | Isolation thermique et barrière anti-déflagrante | Collecte de l'Oxygène ($\text{O}_2$) périphérique |
-| **Rotor Étalon (Face Interne)** | Composite Carbone / Carbure de Silicium ($\text{C/SiC}$) | Double disque $\varnothing\ 150\text{ mm}$ en contre-rotation à **$40\,000\text{ tr/min}$** | Cisaillement cinétique d'interface extralocal (**Mach 4 à Mach 8**) | Entrée de la vapeur sèche surchauffée injectée à **$200^\circ\text{C}$** |
-| **Entrefer Élargi ($\delta = 120\ \mu\text{m}$)** | Micro-sillons creusés géométriques laser (LIPSS) | Pulsation thermo-élastique haute fréquence (**Shaker Énergétique**) | Génération de **vortex électriques verticaux** inter-disques ($10^6\text{ V/m}$) | Établissement d'un gradient de dépression barométrique radial |
-| **Revêtement Actif (Structure Bi-Zone)** | Fond des sillons triboélectrique / Crêtes planes en Diamant BDD + Or ($\text{Au}$) | Isolation diélectrique des fonds et conductivité plasmonique des crêtes | Éjection de *hot electrons* par Résonance Plasmonique (SPR) excitée par UV endogènes | Dissociation moléculaire totale en radicaux libres $H^\bullet$ et $^\bullet\text{OH}$ |
-| **Axe Central (Collecteur)** | Tube en Titane à parois micro-perforées | Résonance acoustique et micro-perforations de sifflement HF | Barrière sélective anti-recombinaison radicalaire par vortex | Extraction continue de l'Hydrogène Pur ($\text{H}_2$) par l'arbre creux |
+### 💿 2. Rotor Étalon (Face Interne)
+* **Composant :** Double disque dynamique de $\varnothing\ 150\text{ mm}$.
+* **Matériau :** Composite haute rigidité Carbone / Carbure de Silicium ($\text{C/SiC}$).
+* **Cinématique :** Entraînement en contre-rotation stricte à **$40\,000\text{ tr/min}$**.
+* **Interface :** Vitesse périphérique relative hypersonique (**Mach 4 à Mach 8**).
+* **Fluide entrant :** Injection axiale directe de vapeur sèche surchauffée à **$200^\circ\text{C}$**.
+
+### ↕️ 3. Entrefer Augmenté
+* **Géométrie :** Canal de passage élargi stabilisé à **$\delta = 120\ \mu\text{m}$**.
+* **Structure :** Micro-sillons laser profonds (LIPSS) intégrés aux parois.
+* **Dynamique :** Pulsation thermo-élastique haute fréquence (**Shaker Énergétique**).
+* **Phénomène induit :** Formation de **vortex électriques verticaux** inter-disques ($10^6\text{ V/m}$).
+* **Aérodynamique :** Établissement d'un gradient de dépression barométrique radial (Vortex-Venturi).
+
+### 💎 4. Revêtement Actif (Structure Bi-Zone)
+* **Architecture :** Configuration géométrique asymétrique découplée.
+* **Zone Sillons :** Fond des sillons traité pour la rétention triboélectrique (isolation diélectrique).
+* **Zone Crêtes :** Surfaces planes supérieures dotées d'une matrice Diamant BDD et de nano-clusters d'Or ($\text{Au}$).
+* **Action chimique :** Éjection massive de *hot electrons* par Résonance Plasmonique (SPR) excitée par la sonoluminescence UV.
+* **Rupture :** Dissociation moléculaire intégrale en radicaux libres instantanés $H^\bullet$ et $^\bullet\text{OH}$.
+
+### 🚀 5. Axe Central (Collecteur Sélectif)
+* **Composant :** Tube collecteur central creux.
+* **Matériau :** Titane à parois micro-perforées de sifflement HF.
+* **Acoustique :** Résonance acoustique calibrée agissant comme une pompe à vide endogène.
+* **Tri de masse :** Barrière physique sélective exploitant l'aspiration centrale du vortex.
+* **Fluide sortant :** Extraction continue de l'**Hydrogène Pur ($\text{H}_2$)** vers les systèmes de stockage ou d'utilisation directe.
 
 ```
