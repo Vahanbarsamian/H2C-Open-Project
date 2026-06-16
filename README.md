@@ -128,6 +128,8 @@ En parallèle, les transitions de phase ultra-rapides du fluide provoquent une m
 
 La liaison $\text{H}-\text{O}$ explose littéralement lors de l'impact plasmonique final sur les crêtes d'or et de diamant, libérant instantanément le précieux fruit de l'hydrogène.
 
+<img width="784" height="1168" alt="Image" src="https://github.com/user-attachments/assets/86ccc11d-42cb-45f9-8f3d-3a305f738054" />
+
 ---
 
 ## 📊 7. Paradigmes Applicatifs & Modèles d'Autonomie Énergétique (V8.4)
