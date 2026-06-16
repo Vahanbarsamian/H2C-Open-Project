@@ -192,10 +192,10 @@ L'entrefer élargi ($120\ \mu\text{m}$) de la version V8.4 permet d'injecter, en
 * **Aérodynamique :** Établissement d'un gradient de dépression barométrique radial (Vortex-Venturi).
 
 ### 💎 4. Revêtement Actif (Structure Bi-Zone)
-* **Architecture :** Configuration géométrique asymétrique découplée.
-* **Zone Sillons :** Fond des sillons traité pour la rétention triboélectrique (isolation diélectrique).
-* **Zone Crêtes :** Surfaces planes supérieures dotées d'une matrice Diamant BDD et de nano-clusters d'Or ($\text{Au}$).
-* **Action chimique :** Éjection massive de *hot electrons* par Résonance Plasmonique (SPR) excitée par la sonoluminescence UV.
+* **Architecture :** Configuration géométrique asymétrique découplée (séparation physique des potentiels).
+* **Zone Sillons (Génération Statique) :** Fond des sillons tapissé d'un composite multicouche de polymères hautement diélectriques à forte affinité triboélectrique négative : **Polytétrafluoroéthylène (PTFE / Téflon)** et **Polyimide (Kapton)** stabilisé par dépôt de carbone amorphe fluoré ($a\text{-C:F}$). 
+* **Zone Crêtes (Rupture Catalytique) :** Surfaces planes supérieures dotées d'une matrice de **Diamant Industriel Dopé au Bore (BDD)** interdigité avec des nano-clusters d'**Or ($_{79}\text{Au}$)**.
+* **Action chimique :** Le frottement hypersonique de la vapeur au fond des sillons (PTFE/Kapton) accumule une charge électrostatique massive qui polarise et étire les molécules. Lors de leur remontée sur les crêtes, elles subissent une éjection massive d'électrons chauds (*hot electrons*) par Résonance Plasmonique de Surface (SPR) excitée par les UV de la sonoluminescence.
 * **Rupture :** Dissociation moléculaire intégrale en radicaux libres instantanés $H^\bullet$, $^\bullet\text{OH}$, $\text{CO}^\bullet$ et $\text{O}^\bullet$.
 
 ### 🚀 5. Axe Central (Collecteur Sélectif)
