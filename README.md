@@ -14,7 +14,7 @@
 > Ces dépôts garantissent de manière absolue la paternité de l'auteur et l'antériorité de l'invention, rendant caduque toute tentative ultérieure de privatisation ou de captation par dépôt de brevet exclusif par des tiers ou des lobbys industriels.
 >  
 > ### 📜 LICENCE CERN OPEN HARDWARE
-> Le projet H2C est publié et mis irrévocablement à la disposition du public sous la licence **CERN Open Hardware Licence v2 - Strongly Reciprocal (CERN-OHL-S v2)**.
+> Le projet H2C is publié et mis irrévocablement à la disposition du public sous la licence **CERN Open Hardware Licence v2 - Strongly Reciprocal (CERN-OHL-S v2)**.
 >  
 > * **Droit d'usage :** Vous êtes légalement autorisé à copier, modifier, fabriquer, industrialiser et tester ce réacteur librement.
 > * **Obligation de Réciprocité (Clause Anti-Lobby) :** Si vous modifiez, améliorez ou dérivez un système à partir de ces plans ou de ces formalismes, la licence du CERN vous **oblige légalement à publier vos modifications sous la même licence CERN-OHL-S v2**. Personne ne peut s'approprier ou privatiser les avancées de ce projet.
@@ -26,7 +26,7 @@
 
 Le projet **H2C** (Hydro-Kinetic Cavitation) est un manifeste technologique open-source visant à explorer les limites de la mécanique des fluides extrême, des phénomènes de changement de phase supersoniques, de l'amplification plasmonique de surface et de la séparation massique induite par gradients de pression barométriques à très haute vitesse.
 
-L'histoire du projet H2C ressemble à une quête scientifique : comment forcer la nature à briser la molecule d'eau sans utiliser l'électricité massive des électrolyseurs classiques ? En huit itérations, le projet a appris à apprivoiser l'invisible. Ce qui était autrefois considéré comme des pertes ou des nuisances dans une machine (le bruit, la friction, la chaleur, le gonflement des métaux) a été capté, amplifié et orchestré pour devenir le hachoir moléculaire ultime.
+L'histoire du projet H2C ressemble à une quête scientifique : comment forcer la nature à briser la molecule d'eau ou le dioxyde de carbone sans utiliser l'électricité massive des électrolyseurs classiques ? En huit itérations, le projet a appris à apprivoiser l'invisible. Ce qui était autrefois considéré comme des pertes ou des nuisances dans une machine (le bruit, la friction, la chaleur, le gonflement des métaux) a été capté, amplifié et orchestré pour devenir le hachoir moléculaire ultime.
 
 ---
 
@@ -117,16 +117,16 @@ La paroi du réacteur intègre des micro-perforations calibrées. Au passage du 
 ### 🌀 La Tempête Électrodynamique Inter-Disque (Le Shaker Énergétique)
 Puisque les disques tournent en contre-rotation stricte à $40\,000\text{ tr/min}$, les charges triboélectriques opposées accumulées au fond des sillons se croisent à des vitesses relatives phénoménales. Ce mouvement génère un champ électrique vertical intense ($10^6$ à $10^8\text{ V/m}$) qui pont l'entrefer sous forme de **vortex électriques verticaux** (de véritables micro-tornades de plasma bleu-violet). 
 
-En parallèle, les transitions de phase ultra-rapides du fluide provoquent une micro-contraction et un micro-gonflement élastique du disque à haute fréquence. **Le réacteur se transforme en un Shaker Énergétique Global :** le disque respire mécaniquement et crée une onde de pression macroscopique qui agite l'intégralité de la cavité. La molécule d'eau traverse ce parcours en cascade :
+En parallèle, les transitions de phase ultra-rapides du fluide provoquent une micro-contraction et un micro-gonflement élastique du disque à haute fréquence. **Le réacteur se transforme en un Shaker Énergétique Global :** le disque respire mécaniquement et crée une onde de pression macroscopique qui agite l'intégralité de la cavité. La molécule d'eau ou de gaz carbonique traverse ce parcours en cascade :
 
 
 ```
 
-[Vapeur Sèche 200°C] ──> [Sillons : Étirée & Polarisée par Tribo] ──> [Perforations : Secouée par Micro-ondes] ──> [Vortex Plasma : Tordue] ──> [Crêtes : Atomisée par Flashs UV & Électrons Chauds]
+[Flux Surchauffé 200°C] ──> [Sillons : Polarisé par Tribo] ──> [Perforations : Excitation Micro-ondes] ──> [Vortex Plasma : Déchirure] ──> [Crêtes : Rupture et Recombinaisons Radicalaires]
 
 ```
 
-La liaison $\text{H}-\text{O}$ explose littéralement lors de l'impact plasmonique final sur les crêtes d'or et de diamant, libérant instantanément le précieux fruit de l'hydrogène.
+La liaison moléculaire explose littéralement lors de l'impact plasmonique final sur les crêtes d'or et de diamant, libérant instantanément le flux de vecteurs énergétiques purs.
 
 <img width="784" height="1168" alt="Image" src="https://github.com/user-attachments/assets/86ccc11d-42cb-45f9-8f3d-3a305f738054" />
 
@@ -134,7 +134,7 @@ La liaison $\text{H}-\text{O}$ explose littéralement lors de l'impact plasmoniq
 
 ## 📊 7. Paradigmes Applicatifs & Modèles d'Autonomie Énergétique (V8.4)
 
-La validation mathématique par double injection d'exergie (électrique transitoire + thermique fatale) où la friction n'est plus une perte mais le moteur de la réaction, ouvre la voie à deux cas d'usage industriels majeurs, affranchis de toute dépendance géopolitique ou métaux critiques :
+La validation mathématique par double injection d'exergie (électrique transitoire + thermique fatale) où la friction n'est plus une perte mais le moteur de la réaction, ouvre la voie à trois grands cas d'usage industriels et écologiques, affranchis de toute dépendance géopolitique ou métaux critiques :
 
 ### 🚗 A. Mobilité Électrique Autonome (Flux Tendu)
 Le système élimine le besoin de stocker de l'hydrogène à haute pression ($700\text{ bars}$) ou d'intégrer des réservoirs composites hyperbares massifs de $250\text{ kg}$. Le module pèse approximativement **15 kg**.
@@ -147,6 +147,12 @@ En mode stationnaire, un module multi-générateurs H2C est couplé à une insta
 
 * **Compensation de l'Intermittence Solaire :** Le système efface le besoin de parcs de batteries stationnaires chimiques. Même en hiver, **quelques heures d'ensoleillement par mois** suffisent à fournir l'impulsion de charge nécessaire au maintien cinétique initial du système.
 * **Cogénération Totale :** Le réacteur fonctionne en circuit fermé (condensation et recyclage de la vapeur d'eau). Les pertes thermiques intrinsèques du cycle cinétique ($99\,\%$ de la fraction non convertie immédiatement en vecteur hydrogène) sont intégralement captées sous forme de flux thermique fluide pour assurer le **chauffage central direct de l'habitat et la production d'eau chaude sanitaire à $80^\circ\text{C}$**, tandis que l'hydrogène extrait génère l'électricité de la maison via une pile à combustible stationnaire.
+
+### 🏭 C. Intensification Procédés : Dépollution Carbocentrée & Synthèse d'E-Fuels
+L'entrefer élargi ($120\ \mu\text{m}$) de la version V8.4 permet d'injecter, en co-flux avec la vapeur d'eau, du **Dioxyde de Carbone ($\text{CO}_2$)** capté sur des cheminées industrielles ou directement dans l'atmosphère, de manière plus ou moins concentrée.
+
+* **Le Hachoir de Gaz à Effet de Serre :** Le $\text{CO}_2$ est une molécule exceptionnellement stable (énergie de liaison linéaire $\text{O}=\text{C}=\text{O}$ très difficile à casser). Au sein du Shaker Énergétique, le champ électrique vertical extrême ($10^8\text{ V/m}$) des vortex de plasma courbe et fragilise la structure linéaire du carbone. Les *hot electrons* du diamant BDD coupent alors les liaisons pour libérer des radicaux carbones monoxydes ($\text{CO}^\bullet$) et de l'oxygène libre.
+* **Production de SynGaz et Carburants de Synthèse (E-Fuels) :** En ajustant précisément le ratio d'injection $\text{H}_2\text{O} / \text{CO}_2$, le cœur du réacteur opère une recombinaison instantanée en **Gaz de Synthèse (SynGaz : $\text{CO} + \text{H}_2$)**. Ce mélange ultra-pur est le précurseur direct pour la fabrication en aval de kérosène de synthèse pour l'aviation, de e-méthanol ou de carburants neutres. Le H2C V8.4 passe ainsi du statut de simple producteur d'hydrogène à celui de **convertisseur environnemental universel**, capable de transformer une pollution industrielle directe en carburant d'avenir renouvelable.
 
 ---
 
@@ -167,7 +173,7 @@ En mode stationnaire, un module multi-générateurs H2C est couplé à une insta
 * **Matériau :** Composite haute rigidité Carbone / Carbure de Silicium ($\text{C/SiC}$).
 * **Cinématique :** Entraînement en contre-rotation stricte à **$40\,000\text{ tr/min}$**.
 * **Interface :** Vitesse périphérique relative hypersonique (**Mach 4 à Mach 8**).
-* **Fluide entrant :** Injection axiale directe de vapeur sèche surchauffée à **$200^\circ\text{C}$**.
+* **Fluide entrant :** Injection axiale directe du mélange Vapeur Sèche ($\text{H}_2\text{O}$) + Flux de $\text{CO}_2$ industriel injecté à **$200^\circ\text{C}$**.
 
 ### ↕️ 3. Entrefer Augmenté
 * **Géométrie :** Canal de passage élargi stabilisé à **$\delta = 120\ \mu\text{m}$**.
@@ -181,13 +187,14 @@ En mode stationnaire, un module multi-générateurs H2C est couplé à une insta
 * **Zone Sillons :** Fond des sillons traité pour la rétention triboélectrique (isolation diélectrique).
 * **Zone Crêtes :** Surfaces planes supérieures dotées d'une matrice Diamant BDD et de nano-clusters d'Or ($\text{Au}$).
 * **Action chimique :** Éjection massive de *hot electrons* par Résonance Plasmonique (SPR) excitée par la sonoluminescence UV.
-* **Rupture :** Dissociation moléculaire intégrale en radicaux libres instantanés $H^\bullet$ et $^\bullet\text{OH}$.
+* **Rupture :** Dissociation moléculaire intégrale en radicaux libres instantanés $H^\bullet$, $^\bullet\text{OH}$, $\text{CO}^\bullet$ et $\text{O}^\bullet$.
 
 ### 🚀 5. Axe Central (Collecteur Sélectif)
 * **Composant :** Tube collecteur central creux.
 * **Matériau :** Titane à parois micro-perforées de sifflement HF.
 * **Acoustique :** Résonance acoustique calibrée agissant comme une pompe à vide endogène.
 * **Tri de masse :** Barrière physique sélective exploitant l'aspiration centrale du vortex.
-* **Fluide sortant :** Extraction continue de l'**Hydrogène Pur ($\text{H}_2$)** vers les systèmes de stockage ou d'utilisation directe.
+* **Fluide sortant :** Extraction et collecte continue selon configuration : **Hydrogène Pur ($\text{H}_2$)** ou **Gaz de Synthèse enrichi ($\text{CO} + \text{H}_2$)** destiné au raffinage d'e-fuels.
 
 ```
+
