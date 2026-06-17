@@ -121,6 +121,9 @@ En parallèle, les transitions de phase ultra-rapides du fluide provoquent une m
 
 [Flux Surchauffé 200°C] ──> [Sillons : Polarisé par Tribo] ──> [Perforations : Excitation Micro-ondes] ──> [Vortex Plasma : Déchirure] ──> [Crêtes : Rupture et Recombinaisons Radicalaires]
 
+<img width="784" height="1168" alt="image" src="https://github.com/user-attachments/assets/20f77d9e-7f0e-43be-b82b-172286ec59d2" />
+
+
 La liaison $\text{H}-\text{O}$ explose littéralement lors de l'impact plasmonique final sur les crêtes d'or et de diamant, libérant instantanément le flux de vecteurs énergétiques purs.
 
 ### 📈 Le Bilan d'Efficacité : Une Récolte Énergétique Sans Précédent
