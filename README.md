@@ -135,6 +135,8 @@ En physique classique, casser l'eau coûte plus d'énergie que ce que l'hydrogè
 
 Le fruit est cueilli à sa source, pur, trié, et immédiatement disponible pour générer de l'énergie nette.
 
+ <img width="3999" height="3999" alt="image" src="https://github.com/user-attachments/assets/5adf9ad2-d9cb-447d-b482-9b1fee7e3b54" />
+
 ### 🎯 L'Innovation V8.4-R : Réflecteurs Acoustiques Métallisés à Haute Vitesse
 Pour franchir et verrouiller ce cap des 80% à 90% d'efficacité exergétique réelle, la géométrie périphérique extérieure du disque intègre une innovation de rupture. Au lieu d'ajouter un appendice mécanique saillant qui aurait freiné le rotor par traînée aérodynamique à Mach 8, le design **V8.4-R** utilise des **micro-cavités paraboliques inversées (sculptées en creux dans la masse)**. 
 
@@ -170,9 +172,7 @@ L'entrefer élargi ($120\ \mu\text{m}$) de la version V8.4 permet d'injecter, en
 
 * **Le Hachoir de Gaz à Effet de Serre :** Le $\text{CO}_2$ est une molécule exceptionnellement stable (énergie de liaison linéaire $\text{O}=\text{C}=\text{O}$ très difficile à casser). Au sein du Shaker Énergétique, le champ électrique vertical extrême ($10^8\text{ V/m}$) des vortex de plasma courbe et fragilise la structure linéaire du carbone. Les *hot electrons* du diamant BDD coupent alors les liaisons pour libérer des radicaux carbones monoxydes ($\text{CO}^\bullet$) et de l'oxygène libre.
 * **Production de SynGaz et Carburants de Synthèse (E-Fuels) :** En ajustant précisément le ratio d'injection $\text{H}_2\text{O} / \text{CO}_2$, le cœur du réacteur opère une recombinaison instantanée en **Gaz de Synthèse (SynGaz : $\text{CO} + \text{H}_2$)**. Ce mélange ultra-pur est le précurseur direct pour la fabrication en aval de kérosène de synthèse pour l'aviation, de e-méthanol ou de carburants neutres. Le H2C V8.4 passe ainsi du statut de simple producteur d'hydrogène à celui de **convertisseur environnemental universel**, capable de transformer une pollution industrielle directe en carburant d'avenir renouvelable.
-  <img width="3999" height="3999" alt="image" src="https://github.com/user-attachments/assets/5adf9ad2-d9cb-447d-b482-9b1fee7e3b54" />
-
-
+ 
 ---
 
 ## 📐 8. Spécifications Techniques Architecturales (Fiches Verticales V8.4-R)
