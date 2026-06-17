@@ -137,8 +137,10 @@ Tapissées d'une matrice protectrice de Nitrure de Titane ($\text{TiN}$) et pars
 
 Le schéma technique en coupe ci-dessous détaille ce mécanisme de redirection énergétique :
 
-![H2C V8.4-R Inverted Cavity LSPR Redirection Schema](METS_ICI_L_URL_DE_TON_IMAGE_GENEREE_PAR_CHATGPT)
+![H2C V8.4-R Inverted Cavity LSPR Redirection Schema]
 *Figure 1 : Vue en coupe CAO de l'entrefer de 120 µm (V8.4-R) mettant en évidence la forge électrostatique (sillons), le couperet plasmonique (crêtes) et la focalisation énergétique périphérique par micro-cavités paraboliques inversées dopées au TiN/Pt/Au.*
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/c90c6d6b-8135-42e9-9705-4adcf31b5882" />
 
 ---
 
@@ -163,6 +165,8 @@ L'entrefer élargi ($120\ \mu\text{m}$) de la version V8.4 permet d'injecter, en
 
 * **Le Hachoir de Gaz à Effet de Serre :** Le $\text{CO}_2$ est une molécule exceptionnellement stable (énergie de liaison linéaire $\text{O}=\text{C}=\text{O}$ très difficile à casser). Au sein du Shaker Énergétique, le champ électrique vertical extrême ($10^8\text{ V/m}$) des vortex de plasma courbe et fragilise la structure linéaire du carbone. Les *hot electrons* du diamant BDD coupent alors les liaisons pour libérer des radicaux carbones monoxydes ($\text{CO}^\bullet$) et de l'oxygène libre.
 * **Production de SynGaz et Carburants de Synthèse (E-Fuels) :** En ajustant précisément le ratio d'injection $\text{H}_2\text{O} / \text{CO}_2$, le cœur du réacteur opère une recombinaison instantanée en **Gaz de Synthèse (SynGaz : $\text{CO} + \text{H}_2$)**. Ce mélange ultra-pur est le précurseur direct pour la fabrication en aval de kérosène de synthèse pour l'aviation, de e-méthanol ou de carburants neutres. Le H2C V8.4 passe ainsi du statut de simple producteur d'hydrogène à celui de **convertisseur environnemental universel**, capable de transformer une pollution industrielle directe en carburant d'avenir renouvelable.
+  <img width="3999" height="3999" alt="image" src="https://github.com/user-attachments/assets/5adf9ad2-d9cb-447d-b482-9b1fee7e3b54" />
+
 
 ---
 
