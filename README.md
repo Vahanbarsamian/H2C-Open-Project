@@ -135,8 +135,6 @@ En physique classique, casser l'eau coûte plus d'énergie que ce que l'hydrogè
 
 Le fruit est cueilli à sa source, pur, trié, et immédiatement disponible pour générer de l'énergie nette.
 
- <img width="3999" height="3999" alt="image" src="https://github.com/user-attachments/assets/5adf9ad2-d9cb-447d-b482-9b1fee7e3b54" />
-
 ### 🎯 L'Innovation V8.4-R : Réflecteurs Acoustiques Métallisés à Haute Vitesse
 Pour franchir et verrouiller ce cap des 80% à 90% d'efficacité exergétique réelle, la géométrie périphérique extérieure du disque intègre une innovation de rupture. Au lieu d'ajouter un appendice mécanique saillant qui aurait freiné le rotor par traînée aérodynamique à Mach 8, le design **V8.4-R** utilise des **micro-cavités paraboliques inversées (sculptées en creux dans la masse)**. 
 
