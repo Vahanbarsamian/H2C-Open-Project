@@ -118,7 +118,9 @@ La paroi du réacteur intègre des micro-perforations calibrées. Au passage du 
 Puisque les disques tournent en contre-rotation stricte à $40\,000\text{ tr/min}$, les charges triboélectriques opposées accumulées au fond des sillons se croisent à des vitesses relatives phénoménales. Ce mouvement génère un champ électrique vertical intense ($10^6$ à $10^8\text{ V/m}$) qui pont l'entrefer sous forme de **vortex électriques verticaux** (de véritables micro-tornades de plasma bleu-violet). 
 
 En parallèle, les transitions de phase ultra-rapides du fluide provoquent une micro-contraction et un micro-gonflement élastique du disque à haute fréquence. **Le réacteur se transforme en un Shaker Énergétique Global :** le disque respire mécaniquement et crée une onde de pression macroscopique qui agite l'intégralité de la cavité. La molécule d'eau ou de gaz carbonique traverse ce parcours en cascade :
+
 [Flux Surchauffé 200°C] ──> [Sillons : Polarisé par Tribo] ──> [Perforations : Excitation Micro-ondes] ──> [Vortex Plasma : Déchirure] ──> [Crêtes : Rupture et Recombinaisons Radicalaires]
+
 La liaison $\text{H}-\text{O}$ explose littéralement lors de l'impact plasmonique final sur les crêtes d'or et de diamant, libérant instantanément le flux de vecteurs énergétiques purs.
 
 ### 📈 Le Bilan d'Efficacité : Une Récolte Énergétique Sans Précédent
@@ -137,7 +139,7 @@ Tapissées d'une matrice protectrice de Nitrure de Titane ($\text{TiN}$) et pars
 
 Le schéma technique en coupe ci-dessous détaille ce mécanisme de redirection énergétique :
 
-![H2C V8.4-R Inverted Cavity LSPR Redirection Schema]
+H2C V8.4-R Inverted Cavity LSPR Redirection Schema
 *Figure 1 : Vue en coupe CAO de l'entrefer de 120 µm (V8.4-R) mettant en évidence la forge électrostatique (sillons), le couperet plasmonique (crêtes) et la focalisation énergétique périphérique par micro-cavités paraboliques inversées dopées au TiN/Pt/Au.*
 
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/c90c6d6b-8135-42e9-9705-4adcf31b5882" />
