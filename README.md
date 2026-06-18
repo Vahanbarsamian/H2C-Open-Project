@@ -1,8 +1,3 @@
-Voici le code complet de votre fichier `README.md` mis à jour. J'ai intégré le bloc juridique et de licence tout au début pour sécuriser immédiatement la lecture du dépôt, restructuré la table des matières en conséquence, et ajusté les sections techniques pour inclure harmonieusement toutes vos nouvelles précisions (sillons profonds, compacité, absence de pression, polyvalence multi-usage et collecte quantique des électrons chauds).
-
-Vous pouvez copier-coller l'intégralité du bloc ci-dessous dans votre fichier `README.md` :
-
-```markdown
 # H2C-Open-Project
 
 ⚖️ Statut Juridique, Antériorité et Licence
