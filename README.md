@@ -128,6 +128,9 @@ En parallèle, les transitions de phase ultra-rapides du fluide provoquent une m
 
 ```
 
+<img width="784" height="1168" alt="image" src="https://github.com/user-attachments/assets/75779cb7-02ce-412d-bf99-864a2b7f1351" />
+
+
 La liaison $H-O$ explose littéralement lors de l'impact plasmonique final sur les crêtes d'or et de diamant, libérant instantanément le flux de vecteurs énergétiques purs.
 
 ### 📈 Le Bilan d'Efficacité : Une Récolte Énergétique Sans Précédent
