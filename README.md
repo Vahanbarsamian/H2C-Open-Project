@@ -131,6 +131,7 @@ En parallèle, les transitions de phase ultra-rapides du fluide provoquent une m
 <img width="784" height="1168" alt="image" src="https://github.com/user-attachments/assets/75779cb7-02ce-412d-bf99-864a2b7f1351" />
 
 
+
 La liaison $H-O$ explose littéralement lors de l'impact plasmonique final sur les crêtes d'or et de diamant, libérant instantanément le flux de vecteurs énergétiques purs.
 
 ### 📈 Le Bilan d'Efficacité : Une Récolte Énergétique Sans Précédent
@@ -167,6 +168,10 @@ L'entrefer élargi ($120\ \mu\text{m}$) de la version V8.4 permet d'injecter, en
 * **Production de SynGaz et Carburants de Synthèse (E-Fuels) :** En ajustant précisément le ratio d'injection $H_2O/CO_2$, le cœur du réacteur opère une recombinaison instantanée en Gaz de Synthèse (SynGaz : $CO + H_2$). Ce mélange ultra-pur est le précurseur direct pour la fabrication en aval de kérosène de synthèse pour l'aviation, de e-méthanol ou de carburants neutres. Le H2C V8.4 passe ainsi du statut de simple producteur d'hydrogène à celui de convertisseur environnemental universel, capable de transformer une pollution industrielle directe en carburant d'avenir renouvelable.
 
 ---
+
+<img width="1168" height="784" alt="image" src="https://github.com/user-attachments/assets/99d3bff5-80f0-4610-9686-9f4da0c299d9" />
+
+
 
 ## 📐 8. Spécifications Techniques Architecturales (Fiches Verticales V8.4-R)
 
