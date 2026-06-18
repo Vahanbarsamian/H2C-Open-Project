@@ -146,6 +146,9 @@ Pour franchir et verrouiller ce cap des 80% à 90% d'efficacité exergétique r�
 
 Tapissées d'une matrice protectrice de Nitrure de Titane ($TiN$) et parsemées de nano-particules de Platine ($Pt$) et d'Or ($Au$), ces niches capturent l'énergie acoustique et photonique brute des implosions périphériques (*collapses*) et la réinjectent, sous forme d'un faisceau laser d'électrons chauds (LSPR), directement en retour vers la zone de production médiane. L'interface asymétrique Au/BDD forme une barrière de Schottky nanométrique permettant de collecter ces électrons chauds avant leur thermalisation femtoseconde. Cette collecte, estimée entre **5 W et 100 W** selon l'optimisation des nano-grains ($<20\text{ nm}$), fournit un bombardement électronique direct ($\approx 10^{20}\ e^-/\text{s}$) qui sature les orbitales anti-liantes et élimine la dissipation thermique parasite.
 
+<p><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3ef4a6c0-9090-478a-8b8f-d6e88383bede" /></p>
+
+
 ---
 
 ## 📊 7. Paradigmes Applicatifs & Modèles d'Autonomie Énergétique (V8.4)
