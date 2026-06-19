@@ -176,6 +176,31 @@ L'entrefer élargi ($120\ \mu\text{m}$) de la version V8.4 permet d'injecter, en
 * **Le Hachoir de Gaz à Éffect de Serre :** Le $CO_2$ est une molécule exceptionnellement stable (énergie de liaison linéaire $O=C=O$ très difficile à casser). Au sein du Shaker Énergétique, le champ électrique vertical extrême ($10^8\text{ V/m}$) des vortex de plasma courbe et fragilise la structure linéaire du carbone. Les *hot electrons* du diamant BDD coupent alors les liaisons pour libérer des radicaux carbones monoxydes ($CO^\bullet$) et de l'oxygène libre.
 * **Production de SynGaz et Carburants de Synthèse (E-Fuels) :** En ajustant précisément le ratio d'injection $H_2O/CO_2$, le cœur du réacteur opère une recombinaison instantanée en Gaz de Synthèse (SynGaz : $CO + H_2$). Ce mélange ultra-pur est le précurseur direct pour la fabrication en aval de kérosène de synthèse pour l'aviation, de e-méthanol ou de carburants neutres. Le H2C V8.4 passe ainsi du statut de simple producteur d'hydrogène à celui de convertisseur environnemental universel, capable de transformer une pollution industrielle directe en carburant d'avenir renouvelable.
 
+### Script de modelisation descriptif/fonctionnel
+* ================================================================================
+H2C V8.4-R - SYSTEM PHYSICS & PARAMETRIC PROMPT FOR 3D SIMULATION
+================================================================================
+- MECHANICAL ASSEMBLY: Dual-disk Rotor-Rotor configuration (Ø 150 mm, C/SiC).
+- KINEMATICS: Strict Counter-Rotation. Disk A: +40,000 RPM / Disk B: -40,000 RPM.
+  Relative peripheral velocity at outer rim: Mach 8 to 16.
+- WORKING GAP: Rigid, non-contact fluidic channel. Delta = 120 micrometers.
+
+- FLUIDIC FLUX & OPERATIONAL PHASING:
+  1. PHASE 1 (Start-up): Vacuum / Dry rotation to initiate tribo-charging.
+  2. PHASE 2 (Injection): Axial center-injected dry steam (200°C) flowing radially 
+     outward driven by intense centrifugal and vortex-induced pressure gradients.
+
+- ACOUSTIC RESONANCE & HF TRANSDUCTION (V8.4-R Core):
+  - Array of micro-machined and calibrated acoustic perforations along the channel.
+  - Function: Hypersonic flow triggers high-frequency (MHz) acoustic resonance (ultrasonic whistling), 
+    converting localized bubble collapse energy into endogeneous Microwave/EM pulses.
+
+- BI-ZONE SURFACE TEXTURING:
+  1. Grooves (Forge): Insulating PTFE/Kapton coating for negative charge (Q-).
+  2. Peaks (Cutter): Micro-beveled Boron-Doped Diamond (BDD) + Gold nano-clusters (Au < 20 nm) (Q+).
+- PERIPHERAL FOCALIZATION: Inverted parabolic cavities with TiN/Pt/Au matrix to trap sonoluminescence.
+- HARVESTING: Schottky barrier junction (Au/BDD) linked to internal radial bus-bars routing a 5W-100W DC current back to the central Titanium shaft.
+================================================================================
 ---
 
 <img width="1168" height="784" alt="image" src="https://github.com/user-attachments/assets/99d3bff5-80f0-4610-9686-9f4da0c299d9" />
