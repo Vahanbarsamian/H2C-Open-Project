@@ -127,6 +127,8 @@ En parallèle, les transitions de phase ultra-rapides du fluide provoquent une m
 [Flux Surchauffé 200°C] ──> [Sillons Profonds : Polarisé par Tribo] ──> [Perforations : Excitation Micro-ondes] ──> [Vortex Plasma & Arcs : Déchirure] ──> [Crêtes : Rupture et Recombinaisons Radicalaires]
 
 ```
+<p><img width="1168" height="784" alt="Image" src="https://github.com/user-attachments/assets/fa08fc45-ccb6-4000-903d-e3b0a3db7a56" /></p>
+
 <p><img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/3e841401-eaa7-4239-8d38-a5aa675d5245" /></p>
 
 <p><img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/08180989-4a7e-4e61-9c80-7d11bba7e4eb" /></p>
