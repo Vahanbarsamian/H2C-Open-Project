@@ -178,7 +178,7 @@ L'entrefer élargi ($120\ \mu\text{m}$) de la version V8.4 permet d'injecter, en
 
 ### Script de modelisation  CAO - DAO -descriptif/fonctionnel
 * ================================================================================
-H2C V8.4-R - SYSTEM PHYSICS & PARAMETRIC PROMPT FOR 3D SIMULATION
+      H2C V8.4-R - SYSTEM PHYSICS & PARAMETRIC PROMPT FOR 3D SIMULATION
 ================================================================================
 - MECHANICAL ASSEMBLY: Dual-disk Rotor-Rotor configuration (Ø 150 mm, C/SiC).
 - KINEMATICS: Strict Counter-Rotation. Disk A: +40,000 RPM / Disk B: -40,000 RPM.
