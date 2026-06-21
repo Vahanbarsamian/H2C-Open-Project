@@ -509,7 +509,7 @@ L'énergie standard tabulée de dissociation de H₂O est de $498\text{ kJ/mol}$
 
 Dans le système H2C, l'énergie résiduelle à fournir par le micro-arc est formulée ainsi :
 
-$$E_{\text{résiduelle}} = E_{\text{totale}} - E_{\text{compression\_adiabatique}} - E_{\text{excitation\_vibrationnelle\_}\nu_3} - E_{\text{déformation\_dipolaire}} - E_{\text{catalyse\_Mo}_2\text{C/WC}} - E_{\text{séquençage\_maillage}}$$
+E_{\text{résiduelle}} = E_{\text{totale}} - E_{\text{compression\_adiabatique}} - E_{\text{excitation\_vibrationnelle\_}\nu_3} - E_{\text{déformation\_dipolaire}} - E_{\text{catalyse\_Mo}_2\text{C/WC}} - E_{\text{séquençage\_maillage}}
 
 Chaque terme de soustraction est réel, mesurable et cumulatif. L'énergie résiduelle effective par molécule est potentiellement d'un ordre de grandeur inférieure à l'énergie standard — ce qui conditionne directement la performance énergétique globale du système.
 
