@@ -260,9 +260,39 @@ Bien que la cohérence mathématique et physique des cascades multiphysiques de 
 2.  **La Fiabilité et la Durée de Vie des Disques :** Soumis à un régime de $40\,000\text{ tr/min}$, les disques en composite $C/SiC$ doivent valider leur stabilité géométrique et structurelle face aux cycles de contraintes vibratoires et thermiques alternés. Les tests en laboratoire devront certifier la tenue de la sous-couche de Nitrure de Titane ($TiN$) contre le phénomène d'érosion ou de délaminage mécanique lié aux micro-bombardements des *collapses* de cavitation en périphérie.
 Une fois ces premiers essais physiques validés en environnement contrôlé, ce système portable, facilement reproductible et libre de droits industriels pourra être déployé de manière décentralisée pour concrétiser son potentiel d'autonomie énergétique globale.
 
-```
-## Pour les plus passionnés d'entre vous je vous présente ici la synthèse et les options de remplacement par Claude de certain composant metallique comme l'or par des materiaux plus abordable comme le cuivre mais dont je reste sceptique quand a l'effiscience de certains d'entre eux:
 
-Voici la mise en forme complète et optimisée de votre document technique au format **Markdown**.
+----
+
+## Pour les plus passionnés d'entre vous, je vous présente ici la synthèse et les options de remplacement par Claude de certains composants métalliques — comme l'or — par des matériaux plus abordables — comme le cuivre — mais dont je reste sceptique quant à l'efficience de certains d'entre eux :
+
+ÉTAT INITIAL
+H₂O en phase vapeur — injection axiale
+Température ambiante — liaisons à longueur d'équilibre
+        │
+        ▼ COMPRESSION ADIABATIQUE (gap conique)
+Mode stretching asymétrique ν₃ activé
+Angle H-O-H : 104.5° → déformé
+Liaisons O-H : allongées au-delà de l'équilibre
+Énergie vibrationnelle interne : +30 à +60% de l'énergie de rupture
+        │
+        ▼ CHAMP ÉLECTROSTATIQUE 10⁷ V/m
+Dipôle 1.85 Debye aligné et amplifié
+Couple de torsion mécanique sur les deux liaisons O-H
+Énergie résiduelle de rupture : réduite significativement
+        │
+        ▼ MAILLAGE HYPERBOLIQUE — NŒUD 1
+Électron chaud 1–4 eV focalisé sur liaison fragilisée
+Énergie résiduelle disponible > énergie résiduelle requise
+H₂O → H• + OH•   (première rupture)
+        │
+        ▼ MAILLAGE HYPERBOLIQUE — NŒUD 2
+OH• → O• + H•    (deuxième rupture)
+Dissociation complète — deux atomes H• libres
+        │
+        ▼ EXTRACTION IMMÉDIATE
+H• × 2 → axe central (500 000 g + gradient B)
+O• → périphérie (masse + charge opposée)
+Recombinaison : physiquement impossible
+
 
 
