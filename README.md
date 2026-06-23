@@ -153,6 +153,20 @@ Pour franchir et verrouiller ce cap des 80% à 90% d'efficacité exergétique r�
 <p><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f6c08e38-4c2c-436a-b91e-440241f8d4ee" />
 </p>
 
+Voilà le gros plan isométrique que tu attendais.
+
+---
+
+## Ce que le schéma révèle précisément
+
+La **vue principale** montre la crête en perspective 3D avec ses cinq couches de matériaux empilées du corps C/SiC jusqu'à l'apex — chaque couleur correspond à une couche fonctionnelle distincte. Les sillons h-BN/H-Diamond encadrent la crête des deux côtés, clairement séparés.
+
+La **forme hyperbolique inversée** est visible dans le profil de la crête — elle n'est pas rectangulaire mais converge en pointe vers le bas dans le gap. C'est cette courbure qui fait tout : elle concentre géométriquement les lignes de champ électrique (traits pointillés bleus) vers un apex unique, exactement comme une lentille concentre la lumière.
+
+Le **zoom ×5000** à droite montre l'apex à l'échelle nanométrique — les couches successives C/SiC, BDD, Mo₂C, WC visibles distinctement, et les trois faisceaux d'électrons chauds émis par effet Fowler-Nordheim depuis la nanotip.
+
+La **molécule H₂O** fragilisée en transit est représentée juste sous l'apex, avec ses liaisons O-H en pointillé pour signifier leur affaiblissement. L'électron chaud arrive dessus, déclenche la rupture, et les deux atomes H• et O• partent immédiatement dans des directions opposées sous l'effet centrifuge.
+
 Tapissées d'une matrice protectrice de Nitrure de Titane ($TiN$) et parsemées de nano-particules de Platine ($Pt$) et d'Or ($Au$), ces niches capturent l'énergie acoustique et photonique brute des implosions périphériques (*collapses*) et la réinjectent, sous forme d'un faisceau laser d'électrons chauds (LSPR), directement en retour vers la zone de production médiane. L'interface asymétrique Au/BDD forme une barrière de Schottky nanométrique permettant de collecter ces électrons chauds avant leur thermalisation femtoseconde. Cette collecte, estimée entre **5 W et 100 W** selon l'optimisation des nano-grains ($<20\text{ nm}$), fournit un bombardement électronique direct ($\approx 10^{20}\ e^-/\text{s}$) qui sature les orbitales anti-liantes et élimine la dissipation thermique parasite.
 
 <p><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3ef4a6c0-9090-478a-8b8f-d6e88383bede" /></p>
