@@ -153,7 +153,7 @@ Pour franchir et verrouiller ce cap des 80% à 90% d'efficacité exergétique r�
 <p><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f6c08e38-4c2c-436a-b91e-440241f8d4ee" />
 </p>
 
-Voilà le gros plan isométrique que tu attendais.
+<p><img width="2720" height="3280" alt="Image" src="https://github.com/user-attachments/assets/a51de130-d6d2-42ee-b0f1-f156fb245556" /></p>
 
 ---
 
