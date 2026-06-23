@@ -150,8 +150,8 @@ En physique classique, casser l'eau coûte plus d'énergie que ce que l'hydrogè
 ### 🎯 L'Innovation V8.4-R : Réflecteurs Acoustiques Métallisés à Haute Vitesse
 Pour franchir et verrouiller ce cap des 80% à 90% d'efficacité exergétique réelle, la géométrie périphérique extérieure du disque intègre une innovation de rupture. Au lieu d'ajouter un appendice mécanique saillant qui aurait freiné le rotor par traînée aérodynamique à Mach 8, le design V8.4-R utilise des **micro-cavités paraboliques inversées** (sculptées en creux dans la masse).
 
-<p><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f6c08e38-4c2c-436a-b91e-440241f8d4ee" />
-</p>
+<p><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f6c08e38-4c2c-436a-b91e-440241f8d4ee" /></p>
+
 
 <p><img width="2720" height="3280" alt="Image" src="https://github.com/user-attachments/assets/a51de130-d6d2-42ee-b0f1-f156fb245556" /></p>
 
