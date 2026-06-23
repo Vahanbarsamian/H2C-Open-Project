@@ -150,6 +150,9 @@ En physique classique, casser l'eau coûte plus d'énergie que ce que l'hydrogè
 ### 🎯 L'Innovation V8.4-R : Réflecteurs Acoustiques Métallisés à Haute Vitesse
 Pour franchir et verrouiller ce cap des 80% à 90% d'efficacité exergétique réelle, la géométrie périphérique extérieure du disque intègre une innovation de rupture. Au lieu d'ajouter un appendice mécanique saillant qui aurait freiné le rotor par traînée aérodynamique à Mach 8, le design V8.4-R utilise des **micro-cavités paraboliques inversées** (sculptées en creux dans la masse).
 
+<p><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f6c08e38-4c2c-436a-b91e-440241f8d4ee" />
+</p>
+
 Tapissées d'une matrice protectrice de Nitrure de Titane ($TiN$) et parsemées de nano-particules de Platine ($Pt$) et d'Or ($Au$), ces niches capturent l'énergie acoustique et photonique brute des implosions périphériques (*collapses*) et la réinjectent, sous forme d'un faisceau laser d'électrons chauds (LSPR), directement en retour vers la zone de production médiane. L'interface asymétrique Au/BDD forme une barrière de Schottky nanométrique permettant de collecter ces électrons chauds avant leur thermalisation femtoseconde. Cette collecte, estimée entre **5 W et 100 W** selon l'optimisation des nano-grains ($<20\text{ nm}$), fournit un bombardement électronique direct ($\approx 10^{20}\ e^-/\text{s}$) qui sature les orbitales anti-liantes et élimine la dissipation thermique parasite.
 
 <p><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3ef4a6c0-9090-478a-8b8f-d6e88383bede" /></p>
@@ -525,6 +528,9 @@ $$OH^\bullet + CO_2 \rightarrow CO + HO_2^\bullet$$
 ---
 
 ## 6. Le maillage hyperbolique — cœur du système
+
+<p><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e9b6ced2-fc04-461a-8600-d23acbadeb62" />
+</p>
 
 ### Ce que j'avais sous-estimé dans les premières analyses
 Les hyperboles inversées en périphérie du disque ne sont pas une simple géométrie de sustentation aérodynamique. Elles constituent le canon à électrons distribué du système — l'élément qui transforme une dissociation stochastique en événement quasi-déterministe.
