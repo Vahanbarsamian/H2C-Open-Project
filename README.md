@@ -461,6 +461,9 @@ Chaque matériau remplit 2 à 4 fonctions simultanées dans la cascade multiphys
 └─────────────────────────────────────────────────────────┘
 
 
+<p><img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/b747db86-c151-4ada-9841-3e38aa08c210" /></p>
+
+
 ### Palette élémentaire complète
 
 | Élément | Rôle principal | Abondance | Source |
@@ -520,6 +523,8 @@ Le système exploite une séquence temporelle ultra-rapide où chaque étape con
    * $H^\bullet \times 2 \rightarrow$ axe central ($500\ 000\text{ g} + \text{gradient B}$)
    * $O^{\bullet\bullet} \rightarrow$ périphérie (masse + charge opposée)
    * *Recombinaison : physiquement impossible*
+
+<p><img width="1915" height="821" alt="Image" src="https://github.com/user-attachments/assets/4d001de3-c185-4614-864e-c73b853fb4bc" /></p>
 
 ### Énergie effective de dissociation
 L'énergie standard tabulée de dissociation de H₂O est de $498\text{ kJ/mol}$ (première liaison) et $428\text{ kJ/mol}$ (seconde liaison), soit $926\text{ kJ/mol}$ au total depuis l'état fondamental.
