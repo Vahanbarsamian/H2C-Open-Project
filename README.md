@@ -266,6 +266,24 @@ L'entrefer élargi ($120\ \mu\text{m}$) de la version V8.4 permet d'injecter, en
 * **Acoustique :** Résonance acoustique calibrée agissant comme une pompe à vide endogène.
 * **Tri de masse :** Barrière physique sélective exploitant l'aspiration centrale du vortex.
 * **Fluide sortant :** Extraction et collecte continue selon configuration : Hydrogène Pur ($H_2$) ou Gaz de Synthèse enrichi ($CO + H_2$) destiné au raffinage direct d'e-fuels.
+## 🌪️ Architecture de l'Axe Central & Gestion Dynamique des Flux (Coaxial)
+
+Le cœur de la version **H2C V8.4-R** réside dans son arbre rotatif coaxial haute vitesse. Pour s'affranchir des pertes de charge et éliminer le besoin de pompes mécaniques lourdes, l'axe central est conçu comme un double canal concentrique gérant deux flux inversés et isolés.
+
+```plaintext
+                    [ EXTRACTION HYDROGÈNE (H₂) ]  ▲
+                                                    │  (Flux interne inversé)
+  ========================= ARBRE ROTATIF COAXIAL =========================
+  [ Canal Externe ] ──► Vapeur H₂O (≥200°C) ──┐
+    (Aspiration)                               │  (Dépression Venturi)
+                                               ▼
+  ----------------------- TUBE INTERNE D'ISOLATION -----------------------
+                                               ▲
+    (Retour Ions H⁺)                           │  (Tri Centrifuge + Magnétique)
+  [ Canal Interne ] ◄── Hydrogène Pur (H₂) ────┘
+  =========================================================================
+
+<p><img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/f4c0fe14-add8-4f1b-a680-5bb34ec1559c" /></p>
 
 ---
 
