@@ -267,9 +267,9 @@ L'entrefer élargi ($120\ \mu\text{m}$) de la version V8.4 permet d'injecter, en
 * **Tri de masse :** Barrière physique sélective exploitant l'aspiration centrale du vortex.
 * **Fluide sortant :** Extraction et collecte continue selon configuration : Hydrogène Pur ($H_2$) ou Gaz de Synthèse enrichi ($CO + H_2$) destiné au raffinage direct d'e-fuels.
 
-#* 🌪️ Architecture de l'Axe Central & Gestion Dynamique des Flux (Coaxial)
+### 🌪️ Architecture de l'Axe Central & Gestion Dynamique des Flux (Coaxial)
 
-# Le cœur de la version **H2C V8.4-R** réside dans son arbre rotatif coaxial haute vitesse. Pour s'affranchir des pertes de charge et éliminer le besoin de pompes mécaniques lourdes, l'axe central est conçu comme un double canal concentrique gérant deux flux inversés et isolés.
+### Le cœur de la version **H2C V8.4-R** réside dans son arbre rotatif coaxial haute vitesse. Pour s'affranchir des pertes de charge et éliminer le besoin de pompes mécaniques lourdes, l'axe central est conçu comme un double canal concentrique gérant deux flux inversés et isolés.
 
                     [ EXTRACTION HYDROGÈNE (H₂) ]  ▲
                                                     │  (Flux interne inversé)
