@@ -268,9 +268,10 @@ L'entrefer élargi ($120\ \mu\text{m}$) de la version V8.4 permet d'injecter, en
 * **Fluide sortant :** Extraction et collecte continue selon configuration : Hydrogène Pur ($H_2$) ou Gaz de Synthèse enrichi ($CO + H_2$) destiné au raffinage direct d'e-fuels.
 ## 🌪️ Architecture de l'Axe Central & Gestion Dynamique des Flux (Coaxial)
 
-Le cœur de la version **H2C V8.4-R** réside dans son arbre rotatif coaxial haute vitesse. Pour s'affranchir des pertes de charge et éliminer le besoin de pompes mécaniques lourdes, l'axe central est conçu comme un double canal concentrique gérant deux flux inversés et isolés.
+## 🌪️ Architecture de l'Axe Central & Gestion Dynamique des Flux (Coaxial)
 
-```plaintext
+# Le cœur de la version **H2C V8.4-R** réside dans son arbre rotatif coaxial haute vitesse. Pour s'affranchir des pertes de charge et éliminer le besoin de pompes mécaniques lourdes, l'axe central est conçu comme un double canal concentrique gérant deux flux inversés et isolés.
+
                     [ EXTRACTION HYDROGÈNE (H₂) ]  ▲
                                                     │  (Flux interne inversé)
   ========================= ARBRE ROTATIF COAXIAL =========================
@@ -282,6 +283,9 @@ Le cœur de la version **H2C V8.4-R** réside dans son arbre rotatif coaxial hau
     (Retour Ions H⁺)                           │  (Tri Centrifuge + Magnétique)
   [ Canal Interne ] ◄── Hydrogène Pur (H₂) ────┘
   =========================================================================
+
+  
+1. Canal Annulaire Externe : Aspiration Venturi ($H_2O \ge 200^\circ\text{C}$)Fonction : Injection et alimentation en continu du réacteur.Mécanisme : La rotation des disques en composite $C/SiC$ à 40 000 tr/min génère une expulsion centrifuge immédiate de l'air présent dans l'entrefer. Cette fuite radiale ultra-rapide crée un vide pneumatique permanent (zone de basse pression critique) au centre géométrique.Résultat : La vapeur d'eau surchauffée ($\ge 200^\circ\text{C}$) est littéralement aspirée par ce vortex central et s'injecte d'elle-même dans le micro-gap sans assistance mécanique externe.2. Canal Central Interne : Extraction Haute Pureté ($H_2$)Fonction : Récolte de l'hydrogène extrait en sens inverse (flux centripète).Le Paradoxe Centrifuge Résolu : Bien que la rotation pousse la masse vers l'extérieur, la dissociation moléculaire en périphérie active deux forces dominantes qui forcent l'hydrogène à migrer vers le centre mort :A. Tri Massique par Centrifugation Extrême ($500\,000\text{ g}$)À la périphérie, le fluide n'est plus de la vapeur mais un plasma de radicaux. L'Oxygène ($16\text{ g/mol}$) étant 16 fois plus lourd que l'Hydrogène ($1\text{ g/mol}$), il est projeté vers le collecteur périphérique externe. Par conservation de la masse et gradient de densité, les protons légers ($H^+$) sont refoulés vers la zone de plus basse densité : l'axe central mort.B. Guidage par Gradient Magnétique ($1.4\text{ T}$)Des aimants permanents $NdFeB$ à haute rémanence créent un entonnoir magnétique convergeant vers l'axe. Les ions $H^+$ chargés sont canalisés le long de ces lignes de flux, isolant le flux d'hydrogène de l'oxygène naissant avant toute recombinaison cinétique.🔬 Paramètres de Validation pour l'Équipe R&D (Axes de Calcul CFD/FSI)Pour valider cette tuyauterie dynamique, les simulations numériques doivent confirmer :[ ] Le ratio de dépression axiale via l'équation de Navier-Stokes compressible.[ ] L'étanchéité dynamique entre le canal d'aspiration $H_2O$ et la canne de récolte $H_2$ à 40 000 tr/min.[ ] Le taux de pureté de l' $H_2$ en sortie de la canne centrale (Objectif : $>95\%$).
 
 <p><img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/f4c0fe14-add8-4f1b-a680-5bb34ec1559c" /></p>
 
