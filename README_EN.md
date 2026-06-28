@@ -884,6 +884,8 @@ Version V8.4-R acts as the final conductor. It introduces no additional componen
 
 ### Global Schematic of the H2C V8.4-R Reactor
 
+<p></p>
+
 [ Outer Titanium Enclosure — Passivated N₂ Buffer Zone ]
 ┌────────────────────────────────────────────────────────┐
 │   [ Master Rotor: Counter-Rotating C/SiC Disks ]       │
