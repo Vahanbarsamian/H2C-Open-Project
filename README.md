@@ -1,3 +1,9 @@
+
+
+<p><img width="1024" height="1536" alt="ChatGPT Image Jun 28, 2026, 03_30_27 PM" src="https://github.com/user-attachments/assets/8ae7a169-56f4-4d7f-8013-474d8850b0f9" /></p>
+
+
+
 # H2C — Hydro-Kinetic Cavitation Reactor
 ## Réacteur Plasmonique à Film de Gaz Auto-Sustenté · Version V8.4-R
 
