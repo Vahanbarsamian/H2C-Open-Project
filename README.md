@@ -467,6 +467,8 @@ Le point de rupture est exactement au rayon maximal où :
 
 ![Apex hyperbolique — coupe isométrique 3D zoom ×5000]
 
+<p><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/049957cb-b316-4430-9b78-6b5b89516785" /></p>
+
 ### Paramètre Critique à Valider
 
 **Quelle est la densité maximale d'hyperboles usinables sur C/SiC à l'échelle micrométrique ?**
