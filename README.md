@@ -196,6 +196,8 @@ La production se stabilise à **720 g/h en configuration bi-module.**
 
 ### ⚡ Le Traitement Bi-Zone Asymétrique
 
+<p><img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/8974bb6f-86b1-4b33-ae5c-0811851135dd" /></p>
+
 La V8.4-R résout le problème de la dissipation des charges en **séparant physiquement les rôles** sur les disques :
 
 - **La Forge Électrostatique (Fond des Sillons) :** Traitement triboélectrique isolant (PTFE/Kapton). Le frottement de la vapeur à haute vitesse accumule une quantité titanesque de charges statiques sans fuite possible.
