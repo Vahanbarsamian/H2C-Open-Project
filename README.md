@@ -603,7 +603,7 @@ En ajustant le ratio d'injection H₂O/CO₂, le réacteur produit directement d
 
 ---
 
-<p></p>
+<p><img width="1168" height="784" alt="image" src="https://github.com/user-attachments/assets/63cf887f-f7cf-4a09-be61-ce61981f5454" /></p>
 
 ## 14. Spécifications Techniques V8.4-R
 
