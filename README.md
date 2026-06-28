@@ -13,7 +13,7 @@
 </div>
 
 ---
-## >> N'hesitez pas a rafraichir la page qui a connue de nombreuses restructurations afin d'eliminer les effets de cache du navigateur. Bonne lecture à vous!
+> 🔄 **Note importante aux lecteurs :** Le présent document a fait l'objet de nombreuses restructurations et optimisations majeures récentes. N'hésitez pas à **rafraîchir votre page** (ou vider le cache de votre navigateur via `Ctrl + F5`) afin d'éliminer les effets de cache et d'afficher la version la plus à jour de l'architecture. Bonne lecture à vous !
 ---
 ## ⚖️ Statut Juridique, Antériorité et Licence
 
