@@ -476,7 +476,7 @@ C'est le paramètre géométrique n°1 à sortir de la simulation avant prototyp
 
 ## 11. L'Axe Coaxial — Double Flux Inversé
 
-<p></p>
+<p><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/33bcd303-dfcf-4359-b981-7df44ff5ec20" /></p>
 
 Le cœur de l'architecture H2C repose sur un paradoxe apparent : deux flux en directions strictement opposées coexistent dans le même espace, **sans jamais se mélanger**, gérés uniquement par des pressions inversées et des forces physiques hiérarchisées.
 
@@ -518,7 +518,7 @@ L'énergie électrique consommée par les paliers pour stabiliser l'arbre est do
 
 ![Axe coaxial — double flux inversé](https://github.com/user-attachments/assets/f4c0fe14-add8-4f1b-a680-5bb34ec1559c)
 
-![Axe coaxial — vue transparente 3D](https://github.com/user-attachments/assets/3ef4a6c0-9090-478a-8b8f-d6e88383bede)
+<p><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c9bb3c58-dbb8-43e8-a21b-504b90379df6" /></p>
 
 ---
 
