@@ -3,7 +3,7 @@
 # H2C — Reactor de Cavitación Hidro-Cinética
 ## Reactor Plasmónico de Película de Gas Auto-Sustentada · Versión V8.4-R
 
-🌐 *Disponible en : [Français](README.md) | [English](Readme_EN.md) / Español*
+🌐 *Disponible en : [Français](README.md) | [English](README_EN.md) | Español*
 
 <div align="center">
 
