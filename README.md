@@ -522,8 +522,6 @@ L'énergie électrique consommée par les paliers pour stabiliser l'arbre est do
 
 ![Axe coaxial — double flux inversé](https://github.com/user-attachments/assets/f4c0fe14-add8-4f1b-a680-5bb34ec1559c)
 
-<p><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c9bb3c58-dbb8-43e8-a21b-504b90379df6" /></p>
-
 ---
 
 ## 12. Bilan Énergétique Réel
