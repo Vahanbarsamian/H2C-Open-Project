@@ -1,4 +1,4 @@
-Voici la version intégrale, restaurée et non synthétisée de ton Manifeste. J'ai réintégré les liens vers tes schémas, redonné à l'historique des versions (V1 à V8.3) toute sa profondeur analytique sous forme de Verrous $\rightarrow$ Solutions, et positionné la V8.4-R comme le chef d'orchestre final, le tout armé des ordres de grandeur physiques et du protocole de R&D pour les laboratoires.Tu peux remplacer l'intégralité de ton fichier README.md par ce bloc.Markdown# H2C — Hydro-Kinetic Cavitation Reactor
+Markdown# H2C — Hydro-Kinetic Cavitation Reactor
 ## Réacteur Plasmonique à Film de Gaz Auto-Sustenté · Version V8.4-R
 
 <div align="center">
@@ -68,7 +68,7 @@ Le projet H2C (*Hydro-Kinetic Cavitation*) est un manifeste technologique open-s
 
 L'électrolyse classique fournit l'énergie de dissociation de H₂O en une seule fois, par une source unique (l'électricité). Elle se heurte au mur thermodynamique incompressible de 39.4 kWh/kg — le minimum théorique pur — et les meilleurs systèmes industriels actuels atteignent péniblement 50 à 55 kWh/kg avec membranes, électrolytes et infrastructures dédiées.
 
-Le H2C distribue, séquence et récupère partiellement cette énergie à travers une architecture spatiale précise, rotative et continue. Il ne cherche pas à violer les lois de la thermodynamique. **Il les exploite au maximum de leur potentiel dans un espace confiné micrométrique.**
+Le H2C distribue, séquence et récupère partiellement cette énergie à travers une architecture spatiale précise, rotative et continue. Il ne cherche pas à violer les lois de la thermodynamique. **Il les exploite au maximum de leur potentiel dans un espace confined micrométrique.**
 
 > **En une phrase :**
 > Un disque composite qui tourne à très haute vitesse dans de la vapeur d'eau surchauffée produit de l'hydrogène en continu, sans électrolyte, sans membrane, avec de l'eau brute comme seul carburant.
@@ -85,7 +85,7 @@ L’histoire du projet H2C est une succession logique de verrous technologiques 
 
 ### 🟠 Version V2 : Le Pivot vers la Cogénération
 * **Concept :** Acceptation des pertes par frottement et transformation du système en unité de cogénération. Utilisation de la friction pour produire instantanément de l'eau chaude utile (80°C) tout en tentant de collecter les micro-quantités d'hydrogène générées par l'arbre rotorique poreux en $C/SiC$.
-* **Le Verrou Bloquant :** Le rendement en hydrogène reste anémique (~0,30 g/h). Le couplage thermique est utile, mais l’objectif de rupture énergétique pour le vecteur hydrogène n'est pas atteint.
+* **Le Verrou Bloquant :** Le rendement en hydrogène reste anémique (~0,30 g/h). Le couplage thermique l'est tout autant, l’objectif de rupture énergétique pour le vecteur hydrogène n'est pas atteint.
 
 ### 🟡 Version V3 : L'Émergence du Plasma-Cavitation
 * **Concept :** Structuration fine de la surface des disques par gravure laser femtoseconde pour créer des motifs périodiques (LIPSS). Objectif : synchroniser le collapse des micro-bulles de cavitation et initier des micro-arcs électriques (effet Paschen intra-bulle).
@@ -117,8 +117,8 @@ La version **V8.4-R** agit comme le **chef d’orchestre final**. Elle ne rajout
 * **Le Traitement Bi-Zone Asymétrique :** Les fonctions de surface sont sectorisées. Les fonds de sillons gèrent la *Forge Électrostatique* (accumulation de charges), tandis que les crêtes planes gèrent le *Couperet Plasmonique* (dissociation), empêchant toute recombinaison prématurée.
 * **Les Micro-Cavités Paraboliques Inversées :** Placées en périphérie extérieure, elles confinent l'énergie acoustique et photonique des implosions pour la réinjecter sous forme d'un faisceau directionnel d'électrons chauds (LSPR) focalisé vers la zone médiane.
 
-Consulter le schéma d'ensemble de l'architecture :
-👉 **[Schéma Global du Réacteur H2C V8.4-R](schemas/global_architecture.png)**
+![Schéma Global du Réacteur H2C V8.4-R](schemas/global_architecture.png)
+*Figure 1 : Vue en coupe de l'architecture système unifiée V8.4-R, illustrant le positionnement des disques composites et l'intégration des paliers magnétiques.*
 
 ---
 
@@ -141,10 +141,10 @@ Pour permettre aux équipes de calcul d'amorcer les simulations numériques unif
 
 ## 5. Calcul et Bilan Énergétique Intermédiaire
 
-L'énergie d'activation globale n'est pas apportée par une source brute unique, mais scindée en apports fragmentés. Voici la décomposition enthalpique intermédiaire estimée par molécule de $H_2O$ traitée :
+L'énergie d'activation globale n'est pas apportée par une source brute unique, mais scindée en apports fragmentés. Voici la décomposition enthalpique intermédiaire estimée par molécule de $H_2O$ traité :
 
 Énergie standard théorique de rupture complète : 926 kJ/mol (Total)─────────────────────────────────────────────────────────────────────────────Énergie apportée par compression adiabatique : ~110 kJ/molExcitation vibrationnelle (Mode ν₃ à 200°C)  : ~145 kJ/molTension dipolaire (Champ continu 10⁷ V/m)    : ~180 kJ/molAbaissement barrière (Catalyse Mo₂C / WC)    : ~210 kJ/molÉnergie des micro-arcs de crête (Paschen)    : ~235 kJ/mol─────────────────────────────────────────────────────────────────────────────= Énergie résiduelle requise au point d'impact : ~46 kJ/molRécupération par bouclage Schottky (LSPR)    : ~12 kJ/mol (collecte nette)─────────────────────────────────────────────────────────────────────────────= BILAN NET ÉNERGÉTIQUE À FOURNIR               : ~34 kJ/mol
-Cette cascade d'abaissements successifs démontre théoriquement comment le système cible une consommation globale en conditions réelles inférieure ou égale à **40 kWh / kg de $H_2$ produit**.
+Cette cascade d'abaissements successifs démontre théoriquement comment le système cible une consumption globale en conditions réelles inférieure ou égale à **40 kWh / kg de $H_2$ produit**.
 
 ---
 
@@ -164,27 +164,27 @@ Le transport et la dissociation du fluide s'effectuent selon une séquence tempo
 3. **Polarisation par Champ ($t_2 \approx +22\text{ µs}$) :** L'alignement du dipôle dans le champ de $10^7\text{ V/m}$ crée un couple de torsion mécanique direct sur la molécule.
 4. **Déchirure Déterministe ($t_3 \approx +30\text{ µs}$) :** Le passage sur les crêtes de maillage provoque l'impact des électrons chauds. La molécule se dissocie : $H_2O \rightarrow H^\bullet + OH^\bullet \rightarrow 2H^+ + O^{2-}$.
 
-Pour visualiser la cinétique des fluides et le positionnement des capteurs :
-👉 **[Schéma de Distribution des Flux et Capteurs](schemas/fluid_dynamics_sensors.png)**
+![Schéma de Distribution des Flux et Capteurs](schemas/fluid_dynamics_sensors.png)
+*Figure 2 : Dynamique des fluides interne, cheminement du double flux inversé et cartographie d'implantation des capteurs piézo-résistifs haute fréquence.*
 
 ---
 
 ## 8. Le Maillage Hyperbolique — Le Canon à Électrons
 
-La courbure des crêtes périphériques suit une fonction hyperbolique inversée ($y = a \cdot \cosh(x/a)$). Cette géométrie remplit quatre fonctions physiques strictes :
+La courbure des crêtes périphériques suit une fonction hyperbolique inversée ($y = a \cdot \cosh(x/a)$). Cette géométrie remplit trois fonctions physiques strictes :
 
 * **Effet de pointe extrême :** Elle concentre les lignes du champ électrique ambiant pour le porter localement de $10^7\text{ V/m}$ à **$10^8\text{ V/m}$**.
 * **Focalisation électronique :** Elle contraint l'émission des électrons chauds (LSPR) en un faisceau directionnel d'un angle inférieur à 15° convergeant vers le centre du gap.
 * **Maillage spatial déterministe :** En saturant l'espace périphérique d'une succession d'apex hyperboliques, la probabilité pour une molécule de traverser la couronne sans rencontrer un faisceau d'électrons chauds tend mathématiquement vers zéro.
 
-Visualiser la géométrie de surface des disques :
-👉 **[Détail du Maillage Électrostatique et Texturation](schemas/surface_mesh_detail.png)**
+![Détail du Maillage Électrostatique et Texturation](schemas/surface_mesh_detail.png)
+*Figure 3 : Profil microscopique des crêtes hyperboliques et répartition asymétrique des revêtements actifs (BDD, h-BN, Mo₂C) en fond et sommet de sillon.*
 
 ---
 
 ## 9. L'Axe Coaxial — Double Flux Inversé & Paliers Magnétiques
 
-L'axe central gère deux flux de direction opposer au sein d'une même pièce mécanique, éliminant l'usage de pompes d'alimentation ou d'extraction :
+L'axe central gère deux flux de direction opposée au sein d'une même pièce mécanique, éliminant l'usage de pompes d'alimentation ou d'extraction :
 
                  [ RETRAIT HYDROGÈNE (H₂) ]  ▲
                                              │  (Flux interne centripète)
@@ -245,6 +245,4 @@ Afin de ne pas conditionner la validation du projet à la construction immédiat
 [ JALON B : Portance Gazeuse ] ──► Stabilité du gap 120 µm   (4 mois | Interféromètre)
 [ JALON C : Micro-Catalyse   ] ──► Énergie d'activation Mo₂C  (6 mois | Cellule Plasma)
 [ JALON D : Intégration Pivot] ──► Test du rotor C/SiC seul  (6 mois | Banc d'essai)
-🔬 JALON A — Validation isolée de la triboélectrification gazeuseBanc d'essai : Disque $C/SiC$ simple face en rotation, frottement sous flux de vapeur sèche variable.Livrable : Cartographie de la densité de charge accumulée sur le H-Diamond et le h-BN en fonction de la vitesse linéaire.Matériel standard : Tribomètre haute vitesse instrumenté, électromètre sans contact.🔬 JALON B — Validation mécanique du film de gaz auto-sustentéBanc d'essai : Deux disques statiques à géométrie hyperbolique inversée alimentés en vapeur à 200°C sous pression de fermeture axiale calibrée.Livrable : Courbe de la force de portance aérodynamique vs épaisseur réelle du gap (validation du modèle de Reynolds).Matériel standard : Capteurs de position capacitifs, interféromètre laser, vérins de précharge.🔬 JALON C — Validation de la cinétique catalytique de la matrice $Mo_2C/WC$Banc d'essai : Cellule micro-réacteur statique simulant l'entrefer de $120\ \mu\text{m}$ soumis à un champ électrique de $10^7\text{ V/m}$.Livrable : Taux de dissociation initial de $H_2O$ à température fixe sans effet de rotation.Matériel standard : Spectromètre de masse, chromatographe en phase gazeuse (GC).🔬 JALON D — Intégration Dynamique du Pivot CoaxialBanc d'essai : Banc d'essai rotorique complet équipé des paliers magnétiques actifs (AMB).Livrable : Mesure du taux de séparation massique et de la pureté du flux de protons extrait au centre mort.Matériel standard : Analyseur de gaz résiduels (RGA), capteurs magnétiques haute fréquence.15. Fabricabilité MondialeL'intégralité du réacteur a été pensée pour s'affranchir des monopoles industriels ou géopolitiques :Usinage du composite $C/SiC$ : Procédés matures au sein des industries aérospatiales mondiales (Europe, États-Unis, Chine, Inde, Japon).Dépôts de surface (CVD/PVD) : Équipements standards utilisés dans l'industrie des outils de coupe et des semi-conducteurs.Gravure de surface : Réalisable par n'importe quel centre laser équipé de systèmes femtoseconde (LIPSS).16. ConclusionLe réacteur H2C V8.4-R n'est ni une promesse d'énergie libre, ni une violation des principes fondamentaux de la thermodynamique. C'est une architecture d'optimisation de l'énergie d'activation. En exploitant les pertes inhérentes aux systèmes rotatifs à haute vitesse (chaleur, friction, ondes acoustiques) et en les convertissant en forces de dissociation et de tri à l'échelle moléculaire, il déplace les lignes de la production d'hydrogène décentralisée.La prochaine étape logique réside dans la validation du taux de dissociation par passage au sein du maillage hyperbolique via simulation numérique unifiée.
-- Document technique open-source
-— Projet H2C V8.4-RAuteur : Vahan Barsamian André · Année 2026
+🔬 JALON A — Validation isolée de la triboélectrification gazeuseBanc d'essai : Disque $C/SiC$ simple face en rotation, frottement sous flux de vapeur sèche variable.Livrable : Cartographie de la densité de charge accumulée sur le H-Diamond et le h-BN en fonction de la vitesse linéaire.Matériel standard : Tribomètre haute vitesse instrumenté, électromètre sans contact.🔬 JALON B — Validation mécanique du film de gaz auto-sustentéBanc d'essai : Deux disques statiques à géométrie hyperbolique inversée alimentés en vapeur à 200°C sous pression de fermeture axiale calibrée.Livrable : Courbe de la force de portance aérodynamique vs épaisseur réelle du gap (validation du modèle de Reynolds).Matériel standard : Capteurs de position capacitifs, interféromètre laser, vérins de précharge.🔬 JALON C — Validation de la cinétique catalytique de la matrice $Mo_2C/WC$Banc d'essai : Cellule micro-réacteur statique simulant l'entrefer de $120\ \mu\text{m}$ soumis à un champ électrique de $10^7\text{ V/m}$.Livrable : Taux de dissociation initial de $H_2O$ à température fixe sans effet de rotation.Matériel standard : Spectromètre de masse, chromatographe en phase gazeuse (GC).🔬 JALON D — Intégration Dynamique du Pivot CoaxialBanc d'essai : Banc d'essai rotorique complet équipé des paliers magnétiques actifs (AMB).Livrable : Mesure du taux de séparation massique et de la pureté du flux de protons extrait au centre mort.Matériel standard : Analyseur de gaz résiduels (RGA), capteurs magnétiques haute fréquence.15. Fabricabilité MondialeL'intégralité du réacteur a été pensée pour s'affranchir des monopoles industriels ou géopolitiques :Usinage du composite $C/SiC$ : Procédés matures au sein des industries aérospatiales mondiales (Europe, États-Unis, Chine, Inde, Japon).Dépôts de surface (CVD/PVD) : Équipements standards utilisés dans l'industrie des outils de coupe et des semi-conducteurs.Gravure de surface : Réalisable par n'importe quel centre laser équipé de systèmes femtoseconde (LIPSS).16. ConclusionLe réacteur H2C V8.4-R n'est ni une promesse d'énergie libre, ni une violation des principes fondamentaux de la thermodynamique. C'est une architecture d'optimisation de l'énergie d'activation. En exploitant les pertes inhérentes aux systèmes rotatifs à haute vitesse (chaleur, friction, ondes acoustiques) et en les convertissant en forces de dissociation et de tri à l'échelle moléculaire, il déplace les lignes de la production d'hydrogène décentralisée.La prochaine étape logique réside dans la validation du taux de dissociation par passage au sein du maillage hyperbolique via simulation numérique unifiée.Document technique open-source — Projet H2C V8.4-RAuteur : Vahan Barsamian André · Année 2026
