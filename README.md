@@ -1,6 +1,6 @@
 # H2C — Hydro-Kinetic Cavitation Reactor
 ## Réacteur Plasmonique à Film de Gaz Auto-Sustenté · Version V8.4-R
-# H2C — Hydro-Kinetic Cavitation Reactor
+
 🌐 *Disponible en : [English](README_EN.md) | Français*
 <div align="center">
 
