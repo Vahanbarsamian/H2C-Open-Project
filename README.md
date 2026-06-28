@@ -183,7 +183,10 @@ La courbure des crêtes périphériques suit une fonction hyperbolique inversée
 * **Focalisation électronique :** Elle contraint l'émission des électrons chauds (LSPR) en un faisceau directionnel d'un angle inférieur à 15° convergeant vers le centre du gap.
 * **Maillage spatial déterministe :** En saturant l'espace périphérique d'une succession d'apex hyperboliques, la probabilité pour une molécule de traverser la couronne sans rencontrer un faisceau d'électrons chauds tend mathématiquement vers zéro.
 
-![Détail du Maillage Électrostatique et Texturation](schemas/surface_mesh_detail.png)
+![Détail du Maillage Électrostatique et Texturation]
+
+<p></p>
+
 *Figure 3 : Profil microscopique des crêtes hyperboliques et répartition asymétrique des revêtements actifs (BDD, h-BN, Mo₂C) en fond et sommet de sillon.*
 
 ---
