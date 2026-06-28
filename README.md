@@ -650,6 +650,8 @@ En ajustant le ratio d'injection H₂O/CO₂, le réacteur produit directement d
 
 ![Vue technique axe coaxial — double flux](https://github.com/user-attachments/assets/99d3bff5-80f0-4610-9686-9f4da0c299d9)
 
+<p><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/48fb7da9-36a1-4c04-9fb6-210109bfaae6" /></p>
+
 ---
 
 ## 15. Protocole de Démarrage
