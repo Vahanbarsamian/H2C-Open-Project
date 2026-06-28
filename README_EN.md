@@ -512,8 +512,9 @@ The electrical energy consumed by the bearings to stabilize the shaft is doubly 
 ### Comparison with Existing Technologies
 
 | Technology | Consumption | Pure |
-Alkaline Electrolysis | 60 to 70 kWh / kg | 99.9 % |
-Highly corrosive KOH medium || H2C V8.4-R (Target) |
+|---|---|---|---|---|
+|Alkaline Electrolysis | 60 to 70 kWh / kg | 99.9 % |
+|Highly corrosive KOH medium || H2C V8.4-R (Target) |
 $\le$ 40 kWh / kg | > 99 % | None, raw water supply |
 ---
 ## 11. Application Paradigms (Mobility & Industry)
