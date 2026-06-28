@@ -465,7 +465,7 @@ Le point de rupture est exactement au rayon maximal où :
 > La forme des disques n'est pas un détail de fabrication.
 > C'est le cœur fonctionnel de toute l'architecture.
 
-![Apex hyperbolique — coupe isométrique 3D zoom ×5000](https://github.com/user-attachments/assets/2c1b957b-98bf-4719-92d8-ec7cba77bbf3)
+![Apex hyperbolique — coupe isométrique 3D zoom ×5000]
 
 ### Paramètre Critique à Valider
 
@@ -475,6 +475,8 @@ C'est le paramètre géométrique n°1 à sortir de la simulation avant prototyp
 ---
 
 ## 11. L'Axe Coaxial — Double Flux Inversé
+
+<p></p>
 
 Le cœur de l'architecture H2C repose sur un paradoxe apparent : deux flux en directions strictement opposées coexistent dans le même espace, **sans jamais se mélanger**, gérés uniquement par des pressions inversées et des forces physiques hiérarchisées.
 
