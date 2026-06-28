@@ -7,7 +7,7 @@
 
 ## Self-Sustained Gas Film Plasmonic Reactor · Version V8.4-R
 
-🌐 *Available in: English | [Français](README.md)*
+🌐 *Available in: English | [Français](README.md) | [Espagnol](README_ES.MD) |*
 
 **Multiphysics Dissociation of H₂O and CO₂ · Continuous Hydrogen Production**
 
