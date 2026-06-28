@@ -117,7 +117,9 @@ La version **V8.4-R** agit comme le **chef d’orchestre final**. Elle ne rajout
 * **Le Traitement Bi-Zone Asymétrique :** Les fonctions de surface sont sectorisées. Les fonds de sillons gèrent la *Forge Électrostatique* (accumulation de charges), tandis que les crêtes planes gèrent le *Couperet Plasmonique* (dissociation), empêchant toute recombinaison prématurée.
 * **Les Micro-Cavités Paraboliques Inversées :** Placées en périphérie extérieure, elles confinent l'énergie acoustique et photonique des implosions pour la réinjecter sous forme d'un faisceau directionnel d'électrons chauds (LSPR) focalisé vers la zone médiane.
 
-![Schéma Global du Réacteur H2C V8.4-R](schemas/global_architecture.png)
+![Schéma Global du Réacteur H2C V8.4-R]
+https://private-user-images.githubusercontent.com/39747688/607761529-01052a58-3790-4d4d-a007-6fd42fd231e0.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODI2MTg0NTgsIm5iZiI6MTc4MjYxODE1OCwicGF0aCI6Ii8zOTc0NzY4OC82MDc3NjE1MjktMDEwNTJhNTgtMzc5MC00ZDRkLWEwMDctNmZkNDJmZDIzMWUwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjI4VDAzNDIzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVhZGE2NjY0MWQwNTg2N2Q4NWIxMzgzYzY4ZDcwMDk3MDdkNTUwMmM5ZDdiMDYwY2UxNmI4MTE1ZjQ1ZWUxNTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmpwZWcifQ.-EZRrQY_oCS-pYeh_9NvLNlC89PU9Cg02PehdpAao0A
+
 *Figure 1 : Vue en coupe de l'architecture système unifiée V8.4-R, illustrant le positionnement des disques composites et l'intégration des paliers magnétiques.*
 
 ---
