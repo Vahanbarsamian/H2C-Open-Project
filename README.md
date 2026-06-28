@@ -13,7 +13,8 @@
 </div>
 
 ---
-
+## n'hesitez pas a rafraichir la page qui a connue e nombreuses restructurations afin d'eliminer les effets de cache du navigateur. Bonne lecture à vous!
+---
 ## ⚖️ Statut Juridique, Antériorité et Licence
 
 > **📢 PROJET COMMUN DE L'HUMANITÉ — DOCUMENTATION LIBRE**
