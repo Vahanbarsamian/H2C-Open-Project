@@ -1,7 +1,3 @@
-Here is the faithful translation of your complete Markdown document into English, preserving all formatting, tables, structure, and image links. Below the translation, you will find the step-by-step guide on how to add this as a second README to your GitHub repository.
-
----
-
 # H2C — Hydro-Kinetic Cavitation Reactor
 
 ## Self-Sustained Gas Film Plasmonic Reactor · Version V8.4-R
