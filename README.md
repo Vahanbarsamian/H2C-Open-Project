@@ -167,7 +167,10 @@ Le transport et la dissociation du fluide s'effectuent selon une séquence tempo
 3. **Polarisation par Champ ($t_2 \approx +22\text{ µs}$) :** L'alignement du dipôle dans le champ de $10^7\text{ V/m}$ crée un couple de torsion mécanique direct sur la molécule.
 4. **Déchirure Déterministe ($t_3 \approx +30\text{ µs}$) :** Le passage sur les crêtes de maillage provoque l'impact des électrons chauds. La molécule se dissocie : $H_2O \rightarrow H^\bullet + OH^\bullet \rightarrow 2H^+ + O^{2-}$.
 
-![Schéma de Distribution des Flux et Capteurs](schemas/fluid_dynamics_sensors.png)
+![Schéma de Distribution des Flux et Capteurs]
+
+<p><img width="1915" height="821" alt="image" src="https://github.com/user-attachments/assets/9322c751-76d4-40f3-bbed-3ebf53ac9714" /></p>
+
 *Figure 2 : Dynamique des fluides interne, cheminement du double flux inversé et cartographie d'implantation des capteurs piézo-résistifs haute fréquence.*
 
 ---
