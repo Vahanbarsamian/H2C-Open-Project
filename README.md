@@ -219,6 +219,8 @@ Pour verrouiller l'efficacité exergétique entre 80 % et 90 %, la géométrie p
 
 ![Micro-cavités paraboliques inversées — vue périphérique](https://github.com/user-attachments/assets/f6c08e38-4c2c-436a-b91e-440241f8d4ee)
 
+<p></p>
+
 Tapissées d'une matrice de Nitrure de Titane (TiN) parsemée de nano-particules de Platine (Pt) et d'Or (Au), ces niches **capturent l'énergie acoustique et photonique brute des implosions périphériques** et la réinjectent sous forme d'un faisceau d'électrons chauds (LSPR) directement vers la zone de production médiane.
 
 L'interface asymétrique Au/BDD forme une **barrière de Schottky nanométrique** collectant ces électrons chauds avant leur thermalisation femtoseconde. Cette collecte, estimée entre **5 W et 100 W** selon l'optimisation des nano-grains (< 20 nm), fournit un bombardement électronique direct (~10²⁰ e⁻/s) qui sature les orbitales anti-liantes.
