@@ -117,7 +117,7 @@ La version **V8.4-R** agit comme le **chef d’orchestre final**. Elle ne rajout
 * **Le Traitement Bi-Zone Asymétrique :** Les fonctions de surface sont sectorisées. Les fonds de sillons gèrent la *Forge Électrostatique* (accumulation de charges), tandis que les crêtes planes gèrent le *Couperet Plasmonique* (dissociation), empêchant toute recombinaison prématurée.
 * **Les Micro-Cavités Paraboliques Inversées :** Placées en périphérie extérieure, elles confinent l'énergie acoustique et photonique des implosions pour la réinjecter sous forme d'un faisceau directionnel d'électrons chauds (LSPR) focalisé vers la zone médiane.
 
-![Schéma Global du Réacteur H2C V8.4-R]
+Schéma Global du Réacteur H2C V8.4-R
 
 <p><img width="1168" height="784" alt="image" src="https://github.com/user-attachments/assets/e3dce224-aa9a-4ccc-a480-e59c4653c033" /></p>
 
