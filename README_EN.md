@@ -430,7 +430,7 @@ Hyperbolic geometry does not radiate isotropically. It focuses hot electrons der
 
 **C — Spatial Mesh Distribution**
 
-<p></p>
+<p><img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/52d8f8f2-1f6e-4ec6-9571-22d85711be91" /></p>
 
 ```
 Hyperbola 1 ──► hot e⁻ beam ──► cleavage zone 1
