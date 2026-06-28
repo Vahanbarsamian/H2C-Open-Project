@@ -185,7 +185,7 @@ La courbure des crêtes périphériques suit une fonction hyperbolique inversée
 
 ![Détail du Maillage Électrostatique et Texturation]
 
-<p></p>
+<p><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d91e1bd7-29e1-442f-bf3c-3d2d333778ec" /></p>
 
 *Figure 3 : Profil microscopique des crêtes hyperboliques et répartition asymétrique des revêtements actifs (BDD, h-BN, Mo₂C) en fond et sommet de sillon.*
 
