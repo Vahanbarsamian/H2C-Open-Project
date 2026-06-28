@@ -219,7 +219,7 @@ Pour verrouiller l'efficacité exergétique entre 80 % et 90 %, la géométrie p
 
 ![Micro-cavités paraboliques inversées — vue périphérique](https://github.com/user-attachments/assets/f6c08e38-4c2c-436a-b91e-440241f8d4ee)
 
-<p></p>
+<p><img width="2720" height="3280" alt="image" src="https://github.com/user-attachments/assets/36a3b0f7-4b79-4a2d-856a-3946d01b3fa6" /></p>
 
 Tapissées d'une matrice de Nitrure de Titane (TiN) parsemée de nano-particules de Platine (Pt) et d'Or (Au), ces niches **capturent l'énergie acoustique et photonique brute des implosions périphériques** et la réinjectent sous forme d'un faisceau d'électrons chauds (LSPR) directement vers la zone de production médiane.
 
