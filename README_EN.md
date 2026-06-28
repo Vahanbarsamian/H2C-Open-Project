@@ -2,6 +2,9 @@
 
 ## Self-Sustained Gas Film Plasmonic Reactor · Version V8.4-R
 
+# H2C — Hydro-Kinetic Cavitation Reactor
+🌐 *Available in: English | [Français](README.md)*
+
 **Multiphysics Dissociation of H₂O and CO₂ · Continuous Hydrogen Production**
 
 ---
