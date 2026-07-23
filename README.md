@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21509690.svg)](https://doi.org/10.5281/zenodo.21509690)
 
 <p><img width="1024" height="1536" alt="ChatGPT Image Jun 28, 2026, 03_30_27 PM" src="https://github.com/user-attachments/assets/8ae7a169-56f4-4d7f-8013-474d8850b0f9" /></p>
 
