@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or reference the H2C multiphysics reactor architecture in your research or project, please cite it as below."
+title: "H2C Hydro-Kinetic Cavitation Reactor (V8.4-R) — Master Release & Open Manifest"
+authors:
+  - family-names: "Barsamian"
+    given-names: "Vahan"
+    alias: "Vahan Barsamian André"
+version: "v8.4.0-R"
+doi: "10.5281/zenodo.21509690"
+date-released: 2026-07-23
+license: "CERN-OHL-S-2.0"
+repository-code: "https://github.com/Vahanbarsamian/H2C-Open-Project"
+keywords:
+  - "hydro-kinetic cavitation"
+  - "plasmonic resonance"
+  - "hydrogen production"
+  - "open hardware"
+  - "cern-ohl-s v2"
+abstract: "Open-source architecture and technical manifest for the H2C multiphysics fluidic reactor. Utilizes gas-film super-cavitation, surface plasmon resonance (LSPR), electrodynamic vortex arrays, and zero-rare-earth materials for continuous non-electrolytic H2/O2 dissociation and mass separation."
